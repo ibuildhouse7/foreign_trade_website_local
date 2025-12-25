@@ -48,8 +48,8 @@ export const blogPosts = [
         <p>Unlike timber which requires regular painting or staining, aluminium only needs a <span class="blog-highlight">simple wipe down</span> with a damp cloth every few months to keep it looking brand new.</p>
         
         <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
-          <img src="/blogs/3.png" alt="Low-maintenance aluminium fixed window for energy-efficient homes" class="w-full h-auto" />
-          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Efficiency meets elegance: High-performance fixed windows designed for a maintenance-free lifestyle.</figcaption>
+          <img src="/blogs/13.png" alt="Durable aluminium vs weathered timber window frame comparison" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">The contrast of resilience: Modern aluminium (left) maintains structural integrity while traditional timber (right) shows signs of environmental decay.</figcaption>
         </figure>
       </section>
       
@@ -58,8 +58,8 @@ export const blogPosts = [
         <p>Aluminium offers a <span class="blog-highlight">great balance between performance and cost</span>. It is an affordable way to add value to your home without compromising on quality or style.</p>
   
         <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
-          <img src="/assets/product_details/glass-louvre-window-2.png" alt="High-quality aluminium glass louvre window for modern Australian architecture" class="w-full h-auto" />
-          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Precision-engineered louvre systems representing the future of residential ventilation.</figcaption>
+          <img src="/blogs/15.png" alt="Modern residential interior with large aluminium windows overlooking a garden" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Seamless integration: High-performance aluminium systems bridging the gap between luxury interiors and natural landscapes.</figcaption>
         </figure>
   
         <p>Explore our range of <a href="/products" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">products</a> to find the perfect fit for your project. Don't forget to check our <a href="/certificates" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">certifications</a> to see how we meet the highest industry standards.</p>
@@ -131,8 +131,8 @@ export const blogPosts = [
         </ul>
   
         <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
-          <img src="/assets/product_details/bi-folding-door-2.png" alt="Aluminium bi-folding doors creating seamless indoor-outdoor connection for summer entertaining" class="w-full h-auto" />
-          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Limitless boundaries: Seamless bi-folding systems for the ultimate summer lifestyle.</figcaption>
+          <img src="/blogs/14.png" alt="Retracted aluminium bi-folding doors opening to a luxury outdoor deck" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Open-plan excellence: Black-framed bi-fold systems retracted to create a limitless transition for summer living.</figcaption>
         </figure>
   
         <p>This makes aluminium windows and doors ideal for modern Australian homes, especially those with patios, balconies, or garden access — perfect for summer entertaining during the festive season.</p>
@@ -149,8 +149,8 @@ export const blogPosts = [
         </ul>
   
         <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
-          <img src="/assets/product_details/glass-louvre-window-1.png" alt="Low-maintenance aluminium glass louvre windows for modern Australian residences" class="w-full h-auto" />
-          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Functional beauty: Louvre systems providing effortless ventilation and a modern silhouette.</figcaption>
+          <img src="/blogs/13.png" alt="Comparison of low-maintenance aluminium vs high-maintenance timber" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Relaxed holidays: Enjoy your summer without the burden of painting or sealing traditional timber frames.</figcaption>
         </figure>
   
         <p>This makes aluminium a practical choice for busy households and property owners who want to enjoy the holidays without worrying about ongoing upkeep.</p>
@@ -401,5 +401,196 @@ export const blogPosts = [
     `,
     metaTitle: 'Aluminium Windows & Doors Guide 2025 | Superbuild Australia',
     metaDescription: 'Complete 2025 guide to aluminium windows and doors for Australian homes. Learn about NCC compliance, thermal break technology, and weather resistance.'
+  },
+  {
+    id: 4,
+    slug: 'aluminium-vs-timber-windows-comparison-2025',
+    title: 'Aluminium vs Timber Windows: 2025 Comparison for Australian Homes – Pros, Cons & Best Choice',
+    excerpt: 'When choosing windows for Australian homes in 2025, aluminium and timber remain the two most popular material options. Discover which is right for your project.',
+    date: '2025-12-25',
+    featuredImage: '/blogs/11.png',
+    author: 'Superbuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          Australia’s harsh climate—characterised by intense UV exposure, extreme temperature variations, and coastal salt air—makes material selection critical for long-term performance.
+        </p>
+        <p>When choosing windows for Australian homes in 2025, aluminium and timber remain the two most popular material options. Each offers distinct advantages, but Australia’s harsh climate—characterised by intense UV exposure, extreme temperature variations, coastal salt air, and bushfire risk—makes material selection critical for long-term performance, energy efficiency, and overall value.</p>
+
+        <p>This comprehensive guide compares aluminium windows vs timber windows from an Australian perspective, examining durability, energy performance, maintenance requirements, and suitability for different environments. It is designed to help homeowners, builders, and developers make informed decisions.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/11.png" alt="Hero comparison: Modern aluminium windows vs traditional timber windows for Australian homes" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">A professional architectural comparison of slim-frame aluminium vs traditional timber window systems.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Why the Australian Climate Demands Tough Window Systems</h2>
+        <p>Australia’s environment places significant stress on building materials:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <span class="blog-highlight">Intense UV radiation</span> accelerates surface degradation and colour fading</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <span class="blog-highlight">Temperature fluctuations</span> (from below 0°C to over 45°C) cause expansion and contraction</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <span class="blog-highlight">Coastal conditions</span> expose frames to corrosive salt air</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <span class="blog-highlight">Bushfire-prone areas</span> require compliance with BAL ratings</li>
+        </ul>
+        <p>All window systems used in Australia must comply with key standards such as AS 2047 (window and door performance) and AS 1288 (glass safety), while also supporting higher NatHERS energy ratings for new residential construction.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Durability and Structural Performance</h2>
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">Aluminium Windows</h3>
+        <p>Aluminium is strong, lightweight, and dimensionally stable. It does not warp, crack, or swell when exposed to heat or moisture. Modern aluminium window systems typically use high-quality powder-coated or anodised finishes, making them suitable for both inland and coastal environments.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/12.png" alt="Comparison of modern architecture vs traditional Australian style" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">The evolution of style: From traditional suburban timber frames (right) to the high-performance glass-and-aluminium architecture of 2025 (left).</figcaption>
+        </figure>
+
+        <p>Key durability advantages include:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Excellent resistance to corrosion and UV exposure</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Long service life, often 40–60 years or more</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Slim frame profiles capable of supporting large glass panels without compromising strength</li>
+        </ul>
+
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">Timber Windows</h3>
+        <p>Timber windows offer a natural, warm appearance and are often selected for architectural or heritage-style homes. However, timber is more sensitive to environmental conditions, especially in humid, coastal, or high-UV regions.</p>
+        <p>Important considerations include:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Susceptibility to moisture, UV damage, and pests if not properly maintained</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Risk of warping, cracking, or rot over time</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Typical lifespan of 20–40 years, depending on timber species and maintenance quality</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Energy Efficiency and Thermal Performance</h2>
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">Aluminium Windows with Thermal Break Technology</h3>
+        <p>Modern aluminium systems commonly incorporate polyamide thermal breaks, which significantly reduce heat transfer through the frame. When combined with double or triple glazing, low-E coatings, and argon gas fills, these systems can achieve U-values in the range of 1.8–2.5 W/m²K, supporting 7-star NatHERS and above in many climate zones.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/16.png" alt="Technical diagram showing thermal break technology blocking heat flow" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Energy science: This diagram illustrates how the central thermal break blocks heat transfer, vastly improving a home's thermal efficiency.</figcaption>
+        </figure>
+
+        <p>Benefits include:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Consistent thermal performance over time</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Improved comfort during extreme summers and winters</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Compatibility with high-performance glazing systems</li>
+        </ul>
+
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">Timber Windows</h3>
+        <p>Timber is a natural insulator and can offer good thermal performance initially, with typical U-values around 2.0–3.0 W/m²K. However, long-term efficiency can decline if frame movement creates gaps or if seals deteriorate due to ageing or environmental exposure.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Maintenance Requirements</h2>
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">Aluminium Windows</h3>
+        <p>Aluminium is widely regarded as a low-maintenance solution:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Simple cleaning with mild detergent once or twice per year</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> No repainting, staining, or sealing required</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Ideal for busy households, rental properties, and large developments</li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/13.png" alt="Visual evidence of low maintenance aluminium vs high maintenance timber" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Practicality visualized: Aluminium's "clean and forget" nature vs the lifecycle costs of painting and repairing timber.</figcaption>
+        </figure>
+
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">Timber Windows</h3>
+        <p>Timber requires ongoing care to maintain both appearance and performance:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Repainting or re-staining every 5–10 years</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Regular inspection for moisture damage, cracking, or pests</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Higher lifetime maintenance costs, which can add $5,000–$10,000 or more over 20 years</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Design Flexibility and Aesthetics</h2>
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">Aluminium Windows</h3>
+        <p>Aluminium systems offer exceptional design flexibility:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Wide range of powder-coated colours and finishes</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Slimline profiles that maximise glass area and natural light</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Strong compatibility with modern Australian architectural styles</li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/14.png" alt="Architectural bi-folding doors showcasing design flexibility and expansive views" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Architectural freedom: High-strength aluminium frames enable massive openings that redefine luxury living spaces.</figcaption>
+        </figure>
+
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">Timber Windows</h3>
+        <p>Timber windows provide a traditional and character-rich appearance, often favoured in heritage restorations and 프로젝트 projects where natural materials are a key design feature.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Aluminium vs Timber: Key Differences at a Glance</h2>
+        <div class="overflow-x-auto my-10">
+          <table class="w-full text-left border-collapse">
+            <thead>
+              <tr class="bg-slate-50 border-b border-slate-200">
+                <th class="p-4 font-bold text-slate-900">Aspect</th>
+                <th class="p-4 font-bold text-slate-900">Aluminium Windows</th>
+                <th class="p-4 font-bold text-slate-900">Timber Windows</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-100">
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Durability</td>
+                <td class="p-4 text-slate-600">Excellent (40–60+ years)</td>
+                <td class="p-4 text-slate-600">Moderate (20–40 years)</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Energy Efficiency</td>
+                <td class="p-4 text-slate-600">High with thermal break</td>
+                <td class="p-4 text-slate-600">Naturally good, can degrade</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Maintenance</td>
+                <td class="p-4 text-slate-600">Very low</td>
+                <td class="p-4 text-slate-600">High</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Aesthetics</td>
+                <td class="p-4 text-slate-600">Modern, slim, versatile</td>
+                <td class="p-4 text-slate-600">Warm, traditional</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Initial Cost</td>
+                <td class="p-4 text-slate-600">Mid to high</td>
+                <td class="p-4 text-slate-600">High (premium timbers)</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/15.png" alt="Modern residential interior with large aluminium windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Modern aesthetics: Clean lines and expansive glass characteristic of 2025 aluminium designs.</figcaption>
+        </figure>
+
+        <p>The most sustainable choice depends on balancing lifecycle performance, maintenance, and environmental priorities.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Which Is the Better Choice for Australian Homes in 2025?</h2>
+        <p>For most modern Australian homes—particularly in coastal, bushfire-prone, hot, or humid regions—thermally broken aluminium windows provide the best overall balance of durability, energy efficiency, low maintenance, and long-term value.</p>
+        <p>Timber windows remain suitable for specific architectural styles and protected environments, but generally require higher ongoing care.</p>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Ready to Choose the Right Windows?</h2>
+        <p>Choosing the right window material is a long-term investment decision.</p>
+        <p>👉 Contact Superbuild for expert advice on aluminium window solutions designed for Australian conditions. We offer custom designs, BAL-compliant systems, coastal-grade finishes, and full project support.</p>
+        <p>👉 Visit <a href="https://www.isupabuild.com" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">https://www.isupabuild.com</a> or request a quotation to discuss your project.</p>
+      </section>
+    `,
+    metaTitle: 'Aluminium vs Timber Windows | 2025 Australia Comparison',
+    metaDescription: 'Compare aluminium vs timber windows for Australian homes in 2025. Discover which material offers better durability, energy efficiency, and value for money.'
   }
 ];
