@@ -13,7 +13,7 @@ const resources = {
         contact: 'Contact Us',
       },
       hero: {
-        title: 'Premium Windows & Doors',
+        title: 'SUPERBUILD - Premium Windows & Doors',
         subtitle: 'For Australian Homes',
         description: 'Exceptional quality and craftsmanship in every detail',
         cta: 'Explore Products',
@@ -60,7 +60,7 @@ const resources = {
         contact: '联系我们',
       },
       hero: {
-        title: '高端门窗',
+        title: 'SUPERBUILD - 高端门窗',
         subtitle: '为澳大利亚住宅打造',
         description: '每一个细节都体现卓越品质与精湛工艺',
         cta: '探索产品',
