@@ -734,5 +734,216 @@ export const blogPosts = [
     `,
     metaTitle: 'Why Aluminium Windows Dominate Australian Construction | Superbuild',
     metaDescription: 'Discover why aluminium windows are the #1 choice for Australian homes. Built for harsh climates, energy-efficient, and low maintenance.'
+  },
+  {
+    id: 6,
+    slug: 'common-types-of-aluminium-windows-australia-guide',
+    title: 'Common Types of Aluminium Windows in Australia: A Complete Guide for Homeowners and Builders',
+    excerpt: 'Aluminium windows remain the top choice for Australian homes in 2025. This guide covers common types like awning, sliding, and louvre windows, and their benefits.',
+    date: '2025-12-31',
+    featuredImage: '/blogs/27.png',
+    author: 'Superbuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          Aluminium windows remain one of the most popular choices for Australian homes in 2025, thanks to their exceptional durability, low maintenance, sleek modern aesthetics, and outstanding performance in harsh climates.
+        </p>
+        <p>With energy efficiency regulations tightening and a focus on sustainable building, understanding the different types of aluminium windows available in Australia is essential for homeowners, builders, architects, and renovators. This comprehensive guide covers the most common aluminium window types, their best applications, advantages, and key considerations to help you make an informed decision.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Fixed Aluminium Windows (Picture Windows)</h2>
+        <p>Fixed windows are non-operable and designed purely to frame views while maximising natural light. They feature no moving parts, providing a seamless, contemporary look.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/28 Fixed Aluminium Windows.png" alt="Double Glazed Fixed Lite Windows | Bold Aluminium Picture Window" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Premium fixed aluminium windows designed for maximum light and thermal efficiency in Australian architectural feature walls.</figcaption>
+        </figure>
+
+        <p><strong class="text-slate-900">Common applications in Australian homes:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Living rooms and open-plan areas</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> High walls or stairwells</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Architectural feature walls</li>
+        </ul>
+
+        <p><strong class="text-slate-900">Key advantages:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Superior thermal and acoustic performance (minimal air leakage)</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Most cost-effective option</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Excellent for pairing with double or triple glazing</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Awning Aluminium Windows</h2>
+        <p>Awning windows hinge at the top and open outward from the bottom, often operated by a chain winder or handle.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/29 Awning window.png" alt="Aluminium Awning Windows | Ascend Range | Wideline" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Versatile awning windows providing excellent ventilation and weather protection, ideal for bathrooms and kitchens.</figcaption>
+        </figure>
+
+        <p><strong class="text-slate-900">Why they're ideal for Australia's climate:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Can stay open during light rain for ventilation</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Strong weather sealing against wind-driven rain</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Popular in bathrooms, kitchens, and laundries</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Sliding Aluminium Windows</h2>
+        <p>Sliding windows glide horizontally along tracks, making them space-efficient and easy to use.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/30 Sliding .png" alt="Sliding Windows - Large Aluminium & Timber Sliding Windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Space-saving sliding windows perfect for modern minimalist designs and homes with limited external space.</figcaption>
+        </figure>
+
+        <p><strong class="text-slate-900">Best suited for:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Bedrooms and living areas</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Apartments or homes with limited external space</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Wide openings for unobstructed views</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Casement Aluminium Windows (Side-Hung)</h2>
+        <p>Casement windows hinge at the side and open outward like a door, providing full ventilation when open.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/31 Casement.png" alt="Casement Windows | High Performance Aluminium" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Side-hung casement windows offering maximum airflow and superior sealing for energy efficiency.</figcaption>
+        </figure>
+
+        <p><strong class="text-slate-900">Benefits:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Superior sealing for energy efficiency</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Easy cleaning and high security</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Compliant with BAL (Bushfire Attack Level) ratings</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Bi-Folding Aluminium Windows</h2>
+        <p>Bi-fold windows feature multiple panels that fold and stack neatly to one side, creating a wide, seamless opening.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/32 Fold.png" alt="Aluminium Bifold Windows Sydney" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Elegant bi-folding units perfect for blurring indoor-outdoor boundaries in alfresco zones.</figcaption>
+        </figure>
+
+        <p><strong class="text-slate-900">Key highlights:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Blurs indoor-outdoor boundaries</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Perfect for entertaining areas, kitchens, and alfresco zones</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Maximises natural light and cross-ventilation</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Louvre Aluminium Windows</h2>
+        <p>Louvre windows consist of adjustable horizontal glass blades (louvers) for precise airflow control.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/33 Aluminium Louvre Windows Tropical Australia.png" alt="Aluminium Louvre Windows | Australian Made" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Modern louvre systems providing exceptional ventilation control, especially in hot, humid climates.</figcaption>
+        </figure>
+
+        <p><strong class="text-slate-900">Why they thrive in Australia:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Outstanding ventilation in hot, humid climates</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Iconic in Queenslander-style homes</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Modern systems offer enhanced weather resistance</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Tilt and Turn Aluminium Windows</h2>
+        <p>Tilt and turn windows offer dual modes: tilt inward from the top for secure ventilation or swing fully inward for easy cleaning and access.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/34 Aluminium Tilt Turn Window.png" alt="European-Style Tilt and Turn Windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">High-performance tilt and turn windows, a versatile and secure choice for modern architectural designs.</figcaption>
+        </figure>
+
+        <p><strong class="text-slate-900">Rising in popularity for:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Energy-efficient and high-performance homes</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> High-rise apartments requiring secure ventilation</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Modern architectural designs</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Quick Comparison: Aluminium Window Types</h2>
+        <div class="overflow-x-auto my-10">
+          <table class="w-full text-left border-collapse">
+            <thead>
+              <tr class="bg-slate-50 border-b border-slate-200">
+                <th class="p-4 font-bold text-slate-900">Window Type</th>
+                <th class="p-4 font-bold text-slate-900">Best For</th>
+                <th class="p-4 font-bold text-slate-900">Ventilation</th>
+                <th class="p-4 font-bold text-slate-900">Cost</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-100">
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Fixed</td>
+                <td class="p-4 text-slate-600">Views & light</td>
+                <td class="p-4 text-slate-600">None</td>
+                <td class="p-4 text-slate-600">Low</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Awning</td>
+                <td class="p-4 text-slate-600">Rain-protected areas</td>
+                <td class="p-4 text-slate-600">Good</td>
+                <td class="p-4 text-slate-600">Medium</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Sliding</td>
+                <td class="p-4 text-slate-600">Space-limited</td>
+                <td class="p-4 text-slate-600">Good</td>
+                <td class="p-4 text-slate-600">Medium</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Casement</td>
+                <td class="p-4 text-slate-600">Maximum airflow</td>
+                <td class="p-4 text-slate-600">Excellent</td>
+                <td class="p-4 text-slate-600">Medium</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Bi-Fold</td>
+                <td class="p-4 text-slate-600">Indoor-outdoor flow</td>
+                <td class="p-4 text-slate-600">Excellent</td>
+                <td class="p-4 text-slate-600">High</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Louvre</td>
+                <td class="p-4 text-slate-600">Hot/humid climates</td>
+                <td class="p-4 text-slate-600">Excellent</td>
+                <td class="p-4 text-slate-600">Medium</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Tilt & Turn</td>
+                <td class="p-4 text-slate-600">Versatile & secure</td>
+                <td class="p-4 text-slate-600">Excellent</td>
+                <td class="p-4 text-slate-600">High</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Why Choose iSupaBuild Aluminium Windows</h2>
+        <p>At iSupaBuild, we specialise in premium aluminium window systems tailored for Australian conditions. Our range includes custom sizes, colours, and configurations that meet the highest standards of energy efficiency and durability.</p>
+        <p>👉 <a href="/contact" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">Contact iSupaBuild today</a> for a free consultation or browse our full range of aluminium windows at <a href="https://www.isupabuild.com" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">www.isupabuild.com</a>.</p>
+      </section>
+    `,
+    metaTitle: 'Common Types of Aluminium Windows in Australia | 2025 Guide',
+    metaDescription: 'Discover the primary types of aluminium windows for Australian homes. From awning to louvre, learn which window type suits your climate and design needs.'
   }
 ];
