@@ -945,5 +945,216 @@ export const blogPosts = [
     `,
     metaTitle: 'Common Types of Aluminium Windows in Australia | 2025 Guide',
     metaDescription: 'Discover the primary types of aluminium windows for Australian homes. From awning to louvre, learn which window type suits your climate and design needs.'
+  },
+  {
+    id: 8,
+    slug: 'aluminium-sliding-doors-vs-bi-folding-doors-australian-guide-2026',
+    title: 'Aluminium Sliding Doors vs Bi-Folding Doors in Australia (2026 Guide): Which Is Best for Your Home?',
+    excerpt: 'Choosing between aluminium sliding doors and bi-folding doors is a crucial decision for Australian homes in 2026. This guide compares both systems specifically for Australian conditions.',
+    date: '2026-01-04',
+    featuredImage: '/blogs/41.png',
+    author: 'iSupaBuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          When designing or renovating modern Australian homes in 2026, choosing between aluminium sliding doors and aluminium bi-folding doors is one of the most important decisions for achieving effective indoor–outdoor flow.
+        </p>
+        <p>Both options deliver sleek aesthetics, durability in harsh Australian conditions, and excellent access to natural light. However, they differ significantly in functionality, space requirements, cost, energy efficiency, and long-term performance—making one more suitable than the other depending on your project, budget, and lifestyle.</p>
+        <p>This guide compares <span class="blog-highlight">aluminium sliding doors</span> and <span class="blog-highlight">aluminium bi-folding doors</span> specifically for Australian homes, covering design, performance, energy efficiency, cost considerations, and compliance with Australian Standards to help homeowners, builders, and architects make an informed decision.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/41.png" alt="Luxury Australian home featuring aluminium sliding and bi-folding doors" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Premium integration: A contemporary Australian residence showcasing the seamless transition enabled by high-performance aluminium door systems.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Quick Comparison: Aluminium Sliding Doors vs Bi-Folding Doors</h2>
+        <p>If you're short on time, the table below highlights the key differences at a glance for readers who want a quick overview.</p>
+        
+        <div class="overflow-x-auto my-10">
+          <table class="w-full text-left border-collapse">
+            <thead>
+              <tr class="bg-slate-50 border-b border-slate-200">
+                <th class="p-4 font-bold text-slate-900">Feature</th>
+                <th class="p-4 font-bold text-slate-900">Aluminium Sliding Doors</th>
+                <th class="p-4 font-bold text-slate-900">Aluminium Bi-Folding Doors</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-100">
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Opening width</td>
+                <td class="p-4 text-slate-600">50–70% of total width (one panel fixed)</td>
+                <td class="p-4 text-slate-600">Up to 90–100% (panels fold and stack)</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Space requirements</td>
+                <td class="p-4 text-slate-600">Minimal – no swing or fold space</td>
+                <td class="p-4 text-slate-600">Requires side stacking space (200–500mm)</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Aesthetics</td>
+                <td class="p-4 text-slate-600">Clean, minimalist, uninterrupted views</td>
+                <td class="p-4 text-slate-600">Dramatic, fully open entertaining feel</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Energy efficiency</td>
+                <td class="p-4 text-slate-600">Excellent (fewer seals, higher airtightness)</td>
+                <td class="p-4 text-slate-600">Very good (requires quality thermal breaks)</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Cost (approx. 2026)</td>
+                <td class="p-4 text-slate-600">AUD $3,000–$8,000 (3m opening)</td>
+                <td class="p-4 text-slate-600">AUD $6,000–$15,000+ (similar size)</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Maintenance</td>
+                <td class="p-4 text-slate-600">Low – fewer moving parts</td>
+                <td class="p-4 text-slate-600">Moderate – more hinges and tracks</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Best for</td>
+                <td class="p-4 text-slate-600">Apartments, balconies, space-limited areas</td>
+                <td class="p-4 text-slate-600">Entertaining areas, large patios, detached homes</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Climate suitability</td>
+                <td class="p-4 text-slate-600">Outstanding in coastal & high-UV areas</td>
+                <td class="p-4 text-slate-600">Excellent with high-quality weather sealing</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/38 Sliding door vs fold door.png" alt="Architectural comparison of sliding and folding door systems" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Visual aid: Understanding the structural differences between sliding and bi-folding aluminium frames.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Understanding Aluminium Sliding Doors</h2>
+        <p>Aluminium sliding doors feature large glass panels that glide horizontally along tracks. They are a staple in Australian residential architecture due to their simplicity, reliability, and space efficiency.</p>
+        
+        <p><strong class="text-slate-900">Key benefits for Australian homes in 2026:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Space Efficiency:</strong> No internal or external swing space required—ideal for modern apartments and narrow patios.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Coastal Durability:</strong> Superior resistance to corrosion from salt air and UV exposure.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Modern Aesthetics:</strong> Slim aluminium frames maximise glass area for expansive views.</li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/42.png" alt="Sleek Modern aluminium sliding door detail in Australian garden setting" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Precision engineering: High-performance sliding systems designed for smooth operation and minimal visual obstruction.</figcaption>
+        </figure>
+
+        <p>Popular configurations include 2-panel, 3-panel, and multi-stacking systems. High-quality sliding doors must comply with <span class="blog-highlight">AS 2047</span> (Windows and doors in buildings) and <span class="blog-highlight">AS 1288</span> (Glass in buildings), making them suitable for all residential projects across Australia.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Understanding Aluminium Bi-Folding Doors</h2>
+        <p>Bi-folding doors consist of multiple hinged panels that concertina-fold to one or both sides, creating a wide and open connection between indoor and outdoor spaces.</p>
+        
+        <p><strong class="text-slate-900">Why they dominate high-end entertaining design:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Maximum Opening Width:</strong> Transform living areas into seamless indoor–outdoor entertaining zones with up to 100% opening.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Flexible Configurations:</strong> Customisable setups such as 3+3 or 5+1 panels to suit specific architectural layouts.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Architectural Impact:</strong> Create a "wall-free" effect that increases both property value and lifestyle appeal.</li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/43.png" alt="Open plan Australian kitchen with fully retracted bi-folding doors" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">The ultimate entertainer: Bi-fold doors fully retracted to create a limitless transition between the kitchen and outdoor patio.</figcaption>
+        </figure>
+
+        <p>When correctly specified, aluminium bi-fold doors can also meet Australian Standards for water penetration and air infiltration, performing exceptionally well even in high-wind or coastal regions.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Design and Visual Impact</h2>
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">Sliding Doors: Clean and Contemporary</h3>
+        <p>Sliding doors offer a minimalist aesthetic with uninterrupted sightlines. They are ideal for modern Australian homes where views and natural light take priority, even when the doors are closed.</p>
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">Bi-Folding Doors: Open and Expressive</h3>
+        <p>Bi-fold doors deliver a more dramatic visual effect. When fully opened, they virtually remove the boundary between interior and exterior spaces—perfect for open-plan homes in Queensland, WA, and coastal NSW.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Space and Layout Considerations</h2>
+        <p>Sliding doors excel in <span class="blog-highlight">space efficiency</span>, making them ideal for apartments, townhouses, and renovations where clearance is limited. They don't require any "dead space" for the panels to travel.</p>
+        <p>Bi-fold doors are better suited to detached homes with generous outdoor areas. However, they typically require <span class="blog-highlight">200–500mm of stacking space</span> per side. This stacking space must be factored into your architectural design early to avoid obstructing walkways or furniture.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Energy Efficiency and Weather Performance in Australia</h2>
+        <p>As we move into 2026, energy efficiency is no longer optional in Australian building codes. Both sliding and bi-folding doors can achieve strong <span class="blog-highlight">WERS (Window Energy Rating System)</span> ratings when specified with:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Thermal Break Frames:</strong> Insulated barriers that block heat transfer.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">High-Performance Glazing:</strong> Double or Low-E glass that controls solar gain.</li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/44.png" alt="High-definition visualization of a thermally broken aluminium door frame cross section" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Advanced technology: A visualization showing how a polyamide thermal break effectively separates the inner and outer aluminium frames to prevent heat transfer.</figcaption>
+        </figure>
+
+        <p>Sliding doors often achieve slightly better U-values (approx. <span class="blog-highlight">2.5–3.5 W/m²K</span>) due to having fewer joints and seals compared to the multiple panels of a bi-fold system (which typically range from <span class="blog-highlight">3.0–4.0 W/m²K</span>). This difference is critical for homes in climate zones with extreme heat, such as Queensland and Western Australia.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Durability and Maintenance</h2>
+        <p>Aluminium is naturally resistant to UV exposure, moisture, and corrosion—essential for Australia's coastal and high-UV environments.</p>
+        <p><strong class="text-slate-900">Comparing maintenance needs:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Sliding Doors:</strong> Require very low maintenance. Periodic cleaning of the bottom track is usually all that's needed.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Bi-Folding Doors:</strong> Moderate maintenance. The multiple pivots, hinges, and complex tracking system may require professional adjustment and lubrication every 12–24 months to ensure smooth operation.</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Cost Considerations in Australia (2026 Estimates)</h2>
+        <p>Investment in quality door systems directly impacts home valuation. Below are realistic installed cost ranges for 2026:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Standard 3m Aluminium Sliding Door:</strong> $4,000–$8,000</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Comparable 3m Aluminium Bi-Folding Door:</strong> $8,000–$16,000+</li>
+        </ul>
+        <p>Bi-fold systems are significantly more expensive due to the complexity of the hardware, the number of individual frames required, and the precision needed during installation.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Which One Suits Your Australian Project Best?</h2>
+        <p><strong class="text-slate-900">Choose aluminium sliding doors if:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Space efficiency and internal layout are top priorities.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> You want the highest possible energy performance (lowest air infiltration).</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Your project is an apartment, townhouse, or rental property.</li>
+        </ul>
+        <p><strong class="text-slate-900">Choose aluminium bi-folding doors if:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Unrestricted indoor–outdoor flow for entertaining is essential.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> You want to create a high-end architectural statement.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> You have ample outdoor space for panel stacking.</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Why Choose iSupaBuild Aluminium Door Systems</h2>
+        <p>At iSupaBuild, we specialise in high-performance aluminium systems engineered specifically for the diverse Australian climate. Our sliding and bi-folding solutions offer the perfect balance of aesthetics and endurance.</p>
+        <p><strong class="text-slate-900">The iSupaBuild Advantage:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Custom Configurations:</strong> Tailored designs up to 12 metres wide to fit any opening.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Energy Excellence:</strong> Advanced thermal break frames and Low-E glazing for 7+ star NatHERS ratings.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Full Compliance:</strong> Stringent testing against AS 2047, AS 1288, and BAL (Bushfire Attack Level) requirements.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Premium Hardware:</strong> Durable, coastal-grade components tested for the harshest environments.</li>
+        </ul>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Ready to Transform Your Home?</h2>
+        <p>Selecting the right aluminium door system can significantly improve comfort, usability, and the overall value of your Australian property. Whether you prioritise the clean lines of sliding doors or the dramatic opening of bi-folds, iSupaBuild provides the expert guidance and premium products you need.</p>
+        <p>👉 <a href="/contact" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">Contact iSupaBuild today</a> for expert advice, a custom quote, or to explore our full range of aluminium door solutions for your 2026 project.</p>
+      </section>
+    `,
+    metaTitle: 'Aluminium Sliding vs Bi-Fold Doors Guide 2026 | iSupaBuild Australia',
+    metaDescription: 'Compare aluminium sliding vs bi-folding doors for Australian homes. 2026 guide on cost, energy efficiency, and performance in coastal and high-UV areas.'
   }
 ];
