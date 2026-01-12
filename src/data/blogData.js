@@ -1372,5 +1372,213 @@ export const blogPosts = [
     `,
     metaTitle: 'Why Aluminium Windows Perform Better in Australian Summer | iSupaBuild',
     metaDescription: 'Discover why aluminium windows are the best choice for Australian summer heat, UV, and bushfire conditions. Compare performance vs timber and uPVC.'
+  },
+  {
+    id: 10,
+    slug: 'best-window-solutions-coastal-homes-australia',
+    title: 'Best Window Solutions for Coastal Homes in Australia: The Ultimate Guide',
+    excerpt: 'Living by the coast is the quintessential Australian dream. However, stunning ocean views come with harsh environments. This guide explains the best window solutions for coastal homes.',
+    date: '2026-01-09',
+    featuredImage: '/blogs/50.png',
+    author: 'iSupaBuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          Living by the coast is the quintessential Australian dream. However, stunning ocean views come with one of the harshest environments for residential buildings anywhere in the world.
+        </p>
+        <p>In coastal regions such as Sydney, Perth, Brisbane, and the Gold Coast, poorly specified windows can show visible corrosion, hardware failure, and seal degradation within 12–24 months. This guide explains the best window solutions for coastal homes in Australia, covering frame materials, glazing options, window styles, Australian Standards, and long-term maintenance—so your investment performs for decades, not years.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/50.png" alt="Luxury coastal villa with massive sliding glass doors and ocean view" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Luxury coastal living: Massive sliding glass doors providing seamless indoor-outdoor transition with panoramic ocean views.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Why Coastal Homes in Australia Require Specialised Windows</h2>
+        <p>Coastal-rated windows are systems specifically designed to resist salt corrosion, extreme UV exposure, high wind loads, and persistent humidity commonly found in Australian seaside environments.</p>
+        <p>Standard residential windows often fail near the coast due to:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Salt spray & airborne chlorides:</strong> Accelerates corrosion of frames, fixings, and hardware.</div></li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Intense UV exposure:</strong> Causes low-grade finishes to chalk, fade, or peel.</div></li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">High wind loads & storms:</strong> Require stronger structural ratings and reliable sealing.</div></li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Humidity & condensation:</strong> Leads to mould growth and premature seal failure.</div></li>
+        </ul>
+        <p>Homes located within <span class="blog-highlight">5 km of the ocean</span> should always specify window systems engineered specifically for coastal conditions.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/51.png" alt="Modern coastal residence with sleek black aluminium window frames in overcast coastal setting" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Built for the environment: Modern black-framed systems demonstrating resilience and aesthetic appeal in dramatic coastal weather.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Best Frame Material for Coastal Homes: Marine-Grade Aluminium</h2>
+        <p>While timber can rot and uPVC may struggle under extreme UV, marine-grade aluminium remains the gold standard for coastal architecture in Australia.</p>
+        
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">Why Aluminium Performs Best Near the Coast</h3>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Superior corrosion resistance:</strong> When correctly finished, aluminium resists salt-induced oxidation.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">High structural strength:</strong> Allows large glass spans while meeting coastal wind ratings.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Minimal maintenance:</strong> No repainting, sanding, or sealing required.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Longevity:</strong> Designed to last 40+ years in harsh coastal environments.</li>
+        </ul>
+
+        <div class="bg-cyan-50 p-8 rounded-2xl border border-cyan-100 my-10">
+          <h4 class="text-xl font-bold text-cyan-900 mb-4">Critical Finish Requirements (Non-Negotiable)</h4>
+          <p>For coastal homes—especially within 1 km of the ocean—specify:</p>
+          <ul class="space-y-2 list-none mt-4">
+            <li class="flex items-center"><span class="text-cyan-600 mr-2">✓</span> <strong class="mr-2">Anodised aluminium (≥25 microns):</strong> Exceptional hardness and corrosion resistance.</li>
+            <li class="flex items-center"><span class="text-cyan-600 mr-2">✓</span> <strong class="mr-2">High-durability powder coating:</strong> Certified to AS 3715 and suitable for C4–C5 corrosivity zones.</li>
+          </ul>
+          <p class="mt-4 text-sm italic text-cyan-800">Expert Tip: Standard powder coating is not sufficient for beachfront exposure.</p>
+        </div>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/52.png" alt="Precision craftsmanship detail of ISUPABUILD aluminium window frame corner" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Precision engineering: A close-up look at the high-standard craftsmanship and durable corner joints of ISUPABUILD aluminium frames.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Thermally Broken Aluminium: Comfort Without Compromise</h2>
+        <p>Coastal homes often feature large windows to maximise views—yet must control heat gain during summer. Thermally broken aluminium windows incorporate a reinforced polyamide barrier separating internal and external frames.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/53.png" alt="Technical cross-section of a thermally broken aluminium window frame" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Engineering comfort: The internal polyamide thermal break blocks heat transfer, keeping coastal homes cool in summer and warm in winter.</figcaption>
+        </figure>
+
+        <p>This technology:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Reduces heat transfer by up to 60%</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Prevents internal condensation</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Improves NatHERS and WERS ratings</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Significantly lowers cooling costs in summer</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Best Glazing Options for Coastal Conditions</h2>
+        <p>High-performance glazing is essential to complement marine-grade frames. Recommended glass types include:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Double glazing:</strong> Improves thermal insulation and reduces wind and wave noise.</div></li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Low-E glass:</strong> Reflects solar heat while maintaining high light transmission.</div></li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Laminated safety glass:</strong> Protects against storm debris and enhances acoustic performance.</div></li>
+        </ul>
+        <p>For exposed coastal locations, <span class="blog-highlight">laminated double glazing</span> offers the best balance of safety, comfort, and durability.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Optimal Window Styles for Coastal Homes</h2>
+        <div class="overflow-x-auto my-10">
+          <table class="w-full text-left border-collapse">
+            <thead>
+              <tr class="bg-slate-50 border-b border-slate-200">
+                <th class="p-4 font-bold text-slate-900">Window Style</th>
+                <th class="p-4 font-bold text-slate-900">Coastal Advantage</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-100">
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Sliding Windows & Doors</td>
+                <td class="p-4 text-slate-600">Minimal exposed hardware, easy cleaning, excellent durability</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Awning Windows</td>
+                <td class="p-4 text-slate-600">Compression seals resist wind-driven rain</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Fixed Windows</td>
+                <td class="p-4 text-slate-600">Maximum airtightness and uninterrupted ocean views</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Bi-Fold Doors</td>
+                <td class="p-4 text-slate-600">Seamless indoor-outdoor living in mild conditions</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/54.png" alt="Modern coastal home featuring a combination of awning and sliding windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Architectural harmony: A mix of awning and sliding window systems integrated into a modern coastal landscape.</figcaption>
+        </figure>
+
+        <p><strong class="text-slate-900">Tip:</strong> Many coastal homes combine multiple window types for performance and lifestyle balance.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Australian Standards & Compliance (Essential)</h2>
+        <p>All coastal window systems should comply with:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">AS 2047</strong> – Windows and doors in buildings</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">AS 1288</strong> – Glass selection and installation</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">WERS</strong> – Window Energy Rating Scheme</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">BAL requirements</strong> (where applicable)</li>
+        </ul>
+        <p>Certification ensures safety, performance, and insurance compliance.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Maintenance: Protecting Your Coastal Investment</h2>
+        <p>Even marine-grade windows benefit from routine care. Recommended maintenance schedule:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Fresh-water rinse every 3 months</strong> (Monthly for beachfront homes)</div></li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Silicone-based lubrication</strong> on stainless steel rollers and hinges</div></li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Regular track cleaning</strong> to remove sand and salt buildup</div></li>
+        </ul>
+        <p>Proper maintenance preserves appearance, performance, and warranty coverage.</p>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Why Choose iSupaBuild for Coastal Homes in Australia</h2>
+        <p>At iSupaBuild, we engineer aluminium window systems specifically for Australia’s harsh coastal conditions.</p>
+        <p>Our coastal solutions feature:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Marine-grade anodised and powder-coated finishes</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> High-performance thermally broken frames</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Double, Low-E, and laminated glazing options</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Compliance with AS 2047, AS 1288, WERS & BAL</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Proven performance in C4–C5 coastal environments</li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/55.png" alt="High-performance glazing on a modern high-rise coastal building" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Commercial excellence: High-performance glazing systems protecting and enhancing modern coastal high-rise developments.</figcaption>
+        </figure>
+
+        <p>Our systems are designed to look exceptional on day one—and still perform decades later.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Frequently Asked Questions</h2>
+        <div class="space-y-8">
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Is anodising or powder coating better for coastal homes?</h4>
+            <p>Both perform well, but 25-micron anodising is often preferred for extreme beachfront exposure due to superior surface hardness.</p>
+          </div>
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">How do I know if my windows are coastal-rated?</h4>
+            <p>Look for AS 2047 certification, marine-grade finishes, and 316-grade stainless steel hardware.</p>
+          </div>
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Do thermally broken windows reduce ocean noise?</h4>
+            <p>Yes. When combined with double glazing, they significantly reduce wind and wave noise.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Ready to Protect Your Coastal Home?</h2>
+        <p>Don’t let salt air compromise your build.</p>
+        <p class="mt-8">
+          👉 <strong>Contact iSupaBuild today</strong> for a professional consultation, or explore our marine-grade aluminium window solutions at 
+          <a href="https://www.isupabuild.com" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4 decoration-2">www.isupabuild.com</a>
+        </p>
+      </section>
+    `,
+    metaTitle: 'Best Window Solutions for Coastal Homes Australia | iSupaBuild',
+    metaDescription: 'Complete guide to marine-grade aluminium windows for coastal Australian homes. Learn about salt corrosion resistance, thermal performance, and glazing options.'
   }
 ];
