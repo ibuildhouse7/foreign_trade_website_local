@@ -1757,5 +1757,109 @@ export const blogPosts = [
     `,
     metaTitle: 'Choosing Aluminium Windows for High-UV Regions Australia | iSupaBuild',
     metaDescription: 'Complete guide to choosing aluminium windows for Australia’s high-UV regions. Learn about UV stability, thermal breaks, and glazing for harsh climates.'
+  },
+  {
+    id: 7,
+    slug: 'ncc-2025-2026-standards-thermally-broken-aluminium-windows',
+    title: 'Meeting NCC 2025/2026 Standards: Why Thermally Broken Aluminium Windows Are the Future for Australian Homes',
+    excerpt: 'As Australia moves toward stricter energy efficiency standards in 2025 and 2026, thermally broken aluminium windows are becoming the essential choice for 7-star energy rated homes.',
+    date: '2026-01-14',
+    featuredImage: '/blogs/ncc-2026-hero.png',
+    author: 'Superbuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          The landscape of Australian residential construction is shifting. With the upcoming 2025 and 2026 updates to the National Construction Code (NCC), energy efficiency isn't just a luxury—it's a requirement.
+        </p>
+        <p>For homeowners and builders across Australia, the introduction of stricter <span class="blog-highlight">7-star energy ratings</span> has revolutionized material selection. Standard aluminium windows, while durable, are no longer sufficient to meet these high-performance targets. Enter <span class="blog-highlight">thermally broken aluminium technology</span>—the game-changing solution designed for the future of Australian living.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10 relative">
+          <div class="absolute top-4 right-4 bg-black/40 backdrop-blur-md px-3 py-1 rounded-md border border-white/20 z-10">
+            <span class="text-white text-xs font-black tracking-widest uppercase">ISUPABUILD</span>
+          </div>
+          <img src="/blogs/ncc-2026-hero.png" alt="Modern Australian sustainable home with thermally broken aluminium windows" class="w-full aspect-video object-cover" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Sustainable luxury: High-performance thermally broken systems enabling grand architectural designs while meeting strict NCC 2026 energy standards.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">What is the NCC 2025/2026 Update?</h2>
+        <p>The National Construction Code (NCC) continues to evolve, with a primary focus on reducing the carbon footprint of Australian homes. The 2025/2026 standards place immense pressure on the "building envelope," specifically windows and doors, which are often the weakest links in thermal insulation.</p>
+        <p>Key requirements include:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Minimum 7-Star NatHERS Rating:</strong> Most new residential builds must now hit this benchmark to be approved.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Strict U-Value Compliance:</strong> Lower U-values are required to prevent heat gain in summer and heat loss in winter.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Improved Air Infiltration Standards:</strong> Better sealing to ensure HVAC systems operate efficiently.</div>
+          </li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">The Science of Thermal Break Technology</h2>
+        <p>Traditional aluminium is a highly conductive material, meaning it easily transfers heat. In the middle of an Australian summer, a standard frame can become hot to the touch, radiating heat into your living room.</p>
+        <p>Thermally broken frames solve this by inserting a <span class="blog-highlight">polyamide insulation strip</span> between the interior and exterior aluminium profiles. This strip acts as a barrier, "breaking" the path of thermal conduction.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10 relative">
+          <div class="absolute top-4 right-4 bg-black/40 backdrop-blur-md px-3 py-1 rounded-md border border-white/20 z-10">
+            <span class="text-white text-xs font-black tracking-widest uppercase">ISUPABUILD</span>
+          </div>
+          <img src="/blogs/thermally-broken-detail.png" alt="Cross-section of a thermally broken aluminium window frame" class="w-full aspect-video object-cover" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Engineering Precision: The polyamide thermal break (center) acts as a high-performance barrier against heat transfer.</figcaption>
+        </figure>
+
+        <p><strong class="text-slate-900">Why this matters for your 2026 project:</strong></p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <span class="blog-highlight">Up to 40% improvement</span> in thermal insulation compared to standard aluminium.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Significant reduction in <span class="blog-highlight">energy bills</span> for year-round comfort.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Elimination of condensation on the inside of frames, preventing mold and rot.</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Total Performance: Glazing and Frames</h2>
+        <p>To meet the new NCC standards, the frame is only half the story. High-performance thermally broken windows must be paired with advanced glazing solutions:</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 my-10">
+          <div>
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">Double & Triple Glazing</h3>
+            <p>Using argon gas fills and warm-edge spacers to maximize insulation between glass panes.</p>
+          </div>
+          <div>
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">Low-E Coatings</h3>
+            <p>Microscopic coatings that reflect radiant heat while allowing natural light to flood the room.</p>
+          </div>
+        </div>
+        <p>At Superbuild, we customize the frame and glass combination to match your specific climate zone in Australia, ensuring full compliance with <span class="blog-highlight">AS 2047 and AS 1288</span>.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Future-Proofing Your Investment</h2>
+        <p>Choosing thermally broken aluminium windows isn't just about meeting code—it's about protecting the long-term value of your property. As energy costs rise and sustainability becomes a key selling point, 7-star rated homes will hold a significant market advantage.</p>
+        <p>👉 <strong class="text-slate-900">Low Maintenance:</strong> Unlike timber, these high-tech frames won't warp or require painting.</p>
+        <p>👉 <strong class="text-slate-900">Durability:</strong> Designed to withstand the harsh Australian UV index and coastal salt spray.</p>
+        <p>👉 <strong class="text-slate-900">Aesthetics:</strong> Support for massive glass spans and slim profiles for that modern architectural look.</p>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Start Your Future-Ready Project Today</h2>
+        <p>If you are planning a residential build or renovation in 2026, don't wait until the standards change. Incorporating thermally broken aluminium systems now will save you time, money, and hassle down the road.</p>
+        <p>👉 Contact Superbuild today for a technical consultation. We provide factory-direct solutions engineered for the Australian market, complete with WERS ratings and certification support.</p>
+        <p>Explore our resources:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <a href="/products" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">Our High-Performance Products</a></li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <a href="/certificates" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">Download Certification Documents</a></li>
+        </ul>
+      </section>
+    `,
+    metaTitle: 'NCC 2025/2026 Window Standards | Thermally Broken Aluminium Guide',
+    metaDescription: 'Learn how to meet the new NCC 2025/2026 7-star energy standards with thermally broken aluminium windows. The ultimate guide for Australian builders.'
   }
 ];
+
