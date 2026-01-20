@@ -2430,6 +2430,221 @@ export const blogPosts = [
     `,
     metaTitle: 'AS 2047 Explained: Australian Window Performance Standards | iSupaBuild',
     metaDescription: 'Is your project compliant? Learn everything about AS 2047 mandatory performance requirements for aluminium windows in Australia, from wind loads to water resistance.'
+  },
+  {
+    id: 14,
+    slug: 'as-2047-requirements-aluminium-windows-australia',
+    title: 'AS 2047 Explained: What Aluminium Windows Must Meet in Australia',
+    excerpt: 'In Australia, windows are far more than just design elements—they are regulated structural components. Learn why AS 2047 compliance is non-negotiable for your next project.',
+    date: '2026-01-20',
+    featuredImage: '/blogs/89-Hero 权威图.png',
+    author: 'Superbuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          In Australia, windows are far more than just design elements — they are regulated structural components governed by strict national standards. Whether you are a homeowner, builder, architect, or importer, understanding AS 2047 compliance is non-negotiable.
+        </p>
+        <p>Installing non-compliant windows can result in structural failure, water ingress, failed inspections, and rejected occupancy certificates — often discovered only after installation, when rectification costs are highest.</p>
+        <p>This comprehensive guide explains exactly what <span class="blog-highlight">AS 2047</span> requires, how aluminium windows are tested, and how to future-proof your project under the latest NCC 2022 and upcoming 2025 requirements.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/89-Hero 权威图.png" alt="High-end architectural villa with AS 2047 compliant aluminium windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Structural Integrity: Modern Australian architecture relies on window systems that meet rigorous national safety and performance benchmarks.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">What Is AS 2047 and Why Is It Mandatory?</h2>
+        <p><span class="blog-highlight">AS 2047 (Windows and external glazed doors in buildings)</span> is Australia’s mandatory performance standard for window and door systems. Under the National Construction Code (NCC), every window installed in Australia must demonstrate compliance through physical testing, not just design claims or overseas certifications.</p>
+        <p>Unlike many international standards, AS 2047 evaluates the entire window system as installed — including the aluminium frame, glazing, seals, hardware, and fixings — making it especially critical for aluminium windows used in high-exposure environments.</p>
+        
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">Why AS 2047 compliance matters:</h3>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Safety:</strong> Prevents failure under extreme wind and storm events.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Insurance:</strong> Non-compliant windows may void building insurance.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Legal approval:</strong> Required for Occupancy Certificates and council sign-off.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Longevity:</strong> Ensures windows remain airtight, watertight, and operational for decades.</div>
+          </li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">The 4 Critical Performance Tests Under AS 2047</h2>
+        <p>To achieve certification, an aluminium window system must pass four core laboratory tests conducted by a NATA-accredited facility:</p>
+
+        <div class="space-y-12 my-12">
+          <div>
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">1. Wind Load Resistance (Deflection)</h3>
+            <p>Windows are tested against positive and negative wind pressures based on site conditions — N-ratings (non-cyclonic) or C-ratings (cyclonic). This confirms the aluminium frame’s stiffness and ability to resist deformation without compromising seals or glazing.</p>
+            
+            <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+              <img src="/blogs/90-风压测试.png" alt="Wind load resistance testing for aluminium windows" class="w-full h-auto" />
+              <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Wind Load Resistance: Rigorous laboratory testing ensures the frame resists extreme pressure without compromising structural integrity.</figcaption>
+            </figure>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">2. Water Penetration Resistance</h3>
+            <p>One of the most common failure points. The window is subjected to pressurised water spray simulating wind-driven rain. <span class="blog-highlight">Zero uncontrolled water ingress</span> is permitted at the rated pressure.</p>
+            
+            <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+              <img src="/blogs/91-水密性.png" alt="Water penetration resistance testing for aluminium windows" class="w-full h-auto" />
+              <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Water Tightness: Simulating driving rain conditions to guarantee zero leakage in high-exposure environments.</figcaption>
+            </figure>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">3. Air Infiltration (Airtightness)</h3>
+            <p>AS 2047 limits how much air can pass through a closed window. With Australia’s push toward 7-star energy ratings, airtightness now directly impacts thermal performance, acoustic comfort, and HVAC efficiency.</p>
+            
+            <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+              <img src="/blogs/92-气密性.png" alt="Air infiltration testing for aluminium windows" class="w-full h-auto" />
+              <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Airtight Precision: Precision seals and frame design ensure minimal air leakage for superior energy efficiency.</figcaption>
+            </figure>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">4. Ultimate Strength & Safety</h3>
+            <p>The system is tested to 1.5× its design wind pressure, simulating extreme storm events. The window must remain structurally intact, with glazing retained securely within the frame.</p>
+            
+            <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+              <img src="/blogs/93-极限强度.png" alt="Ultimate strength testing for aluminium windows" class="w-full h-auto" />
+              <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Safety Proof: Testing the system beyond its design limits to ensure it remains intact during extreme storm events.</figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">AS 2047 vs AS 1288 — Understanding the Difference</h2>
+        <p>A window is only compliant when both standards are satisfied:</p>
+        
+        <div class="overflow-x-auto my-10">
+          <table class="w-full text-left border-collapse">
+            <thead>
+              <tr class="bg-slate-50 border-b border-slate-200">
+                <th class="p-4 font-bold text-slate-900">Standard</th>
+                <th class="p-4 font-bold text-slate-900">What It Covers</th>
+                <th class="p-4 font-bold text-slate-900">Focus Area</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-100">
+              <tr>
+                <td class="p-4 text-slate-700 font-medium font-bold">AS 2047</td>
+                <td class="p-4 text-slate-600">Entire window system</td>
+                <td class="p-4 text-slate-600">Wind, water, air, structural performance</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium font-bold">AS 1288</td>
+                <td class="p-4 text-slate-600">Glass only</td>
+                <td class="p-4 text-slate-600">Glass type, thickness, safety compliance</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p>While <span class="blog-highlight">AS 2047</span> assesses how the window performs as a system, <span class="blog-highlight">AS 1288</span> determines which glass must be used within that system.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">NCC 2022 / 2025: Why AS 2047 Alone Is No Longer Enough</h2>
+        <p>Recent NCC updates place stronger emphasis on the building envelope. While AS 2047 remains mandatory, projects must now also demonstrate:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Thermally broken aluminium frames</strong> to reduce heat transfer.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Improved WERS ratings</strong> for overall energy performance.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Double or triple glazing</strong> to meet stricter U-value and SHGC targets.</div>
+          </li>
+        </ul>
+
+        <p>At Superbuild, our thermally broken aluminium window systems are engineered to exceed AS 2047 while supporting NCC energy compliance across Australian climate zones.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">How to Verify AS 2047 Compliance (Importer Checklist)</h2>
+        <p>Do not rely on marketing claims. Before specifying or importing aluminium windows, confirm:</p>
+        
+        <ul class="space-y-4 my-8 list-none pr-6 bg-slate-50 p-8 rounded-2xl border border-slate-100">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">✔</span>
+            <div><strong class="text-slate-900">AS 2047 test report</strong> from a NATA-accredited laboratory.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">✔</span>
+            <div><strong class="text-slate-900">Performance label</strong> showing wind and water ratings.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">✔</span>
+            <div>Compliance applies to the <strong class="text-slate-900">full system</strong>, not just the aluminium profile.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">✔</span>
+            <div><strong class="text-slate-900">Wind rating</strong> matches the project location (e.g. N3, N4, C2).</div>
+          </li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/94-已安装实景.png" alt="AS 2047 compliant aluminium windows installed on site" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Real-World Excellence: AS 2047 compliant systems provide documented confidence from delivery to final occupancy sign-off.</figcaption>
+        </figure>
+
+        <p><span class="text-rose-600 font-bold">⚠️ Critical risk:</span> CE, ASTM, or ISO reports do not automatically satisfy Australian certifiers without recognised equivalence.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Frequently Asked Questions (FAQ)</h2>
+        <div class="space-y-8">
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Is AS 2047 mandatory for renovations?</h4>
+            <p>Yes. Any replacement or new window installation must comply with AS 2047 and AS 1288.</p>
+          </div>
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Can imported windows be used without AS 2047 testing?</h4>
+            <p>Extremely risky. Most certifiers will reject installations without Australian-recognised test evidence.</p>
+          </div>
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">What wind rating is typical for Sydney or Melbourne?</h4>
+            <p>Most residential projects require N2–N3. Coastal or elevated sites may require N4 or higher.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Choose Superbuild for Certified Aluminium Window Performance</h2>
+        <p>At Superbuild, we remove compliance uncertainty. Our aluminium window systems are:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Fully tested to <strong class="text-slate-900">AS 2047</strong>.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Engineered for <strong class="text-slate-900">NCC 2022 / 2025</strong> energy performance.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Customised for site-specific wind, BAL, and acoustic requirements.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Supplied with documentation certifiers expect.</li>
+        </ul>
+        <p class="mt-8 font-bold">Ready to secure compliance with confidence?</p>
+        <p class="mt-4">
+          👉 <a href="/contact" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">Contact Superbuild for a technical consultation</a>
+          <br/>
+          👉 <a href="/products" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">Explore our AS 2047-compliant aluminium window systems</a>
+        </p>
+      </section>
+    `,
+    metaTitle: 'AS 2047 Explained: What Aluminium Windows Must Meet in Australia',
+    metaDescription: 'Understanding AS 2047 compliance is non-negotiable for Australian projects. Learn the mandatory performance requirements for aluminium windows and doors.'
   }
 ];
 
