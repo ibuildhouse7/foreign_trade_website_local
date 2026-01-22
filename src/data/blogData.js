@@ -2645,6 +2645,167 @@ export const blogPosts = [
     `,
     metaTitle: 'AS 2047 Explained: What Aluminium Windows Must Meet in Australia',
     metaDescription: 'Understanding AS 2047 compliance is non-negotiable for Australian projects. Learn the mandatory performance requirements for aluminium windows and doors.'
+  },
+  {
+    id: 15,
+    slug: 'imported-aluminium-windows-certification-australia',
+    title: 'Do Imported Aluminium Windows Need Certification in Australia?',
+    excerpt: 'All imported aluminium windows and glazed doors must be certified to Australian Standards (AS 2047 & AS 1288) before they can be legally installed. Learn why international standards are not enough.',
+    date: '2026-01-22',
+    featuredImage: '/blogs/85.png',
+    author: 'Superbuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          Yes. All imported aluminium windows and glazed doors must be certified to Australian Standards (AS 2047 & AS 1288) before they can be legally installed in Australia. There are no exceptions based on manufacturing quality, "premium" branding, or overseas certifications such as CE or ASTM.
+        </p>
+        <p>Australia’s building industry is strictly regulated under the National Construction Code (NCC). If imported windows lack the correct Australian documentation, the importer of record becomes legally liable for failed building inspections, insurance denial, and the high cost of mandatory removal.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/85.png" alt="High-end imported aluminium windows undergoing Australian compliance certification" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Visual confirmation: Every imported window system must be supported by Australian-specific test evidence to ensure legal installation.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Why “International Standards” Are Not Enough</h2>
+        <p>Many developers and homeowners assume that a CE Mark, ISO 9001 certification, or an ASTM test report is sufficient. However, in the eyes of an Australian Building Certifier, <span class="blog-highlight">overseas certifications hold no legal weight</span> unless they are supported by Australian Standard test evidence.</p>
+        <p>Australian compliance is based on local environmental conditions, not global averages.</p>
+
+        <div class="overflow-x-auto my-10">
+          <table class="w-full text-left border-collapse">
+            <thead>
+              <tr class="bg-slate-50 border-b border-slate-200">
+                <th class="p-4 font-bold text-slate-900">Feature</th>
+                <th class="p-4 font-bold text-slate-900">Overseas Standards (CE / ASTM)</th>
+                <th class="p-4 font-bold text-slate-900">Australian Standards (AS 2047)</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-100">
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Wind Pressure</td>
+                <td class="p-4 text-slate-600">Based on EU / US climates</td>
+                <td class="p-4 text-slate-600">Specifically rated for Australian N & C wind zones</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Water Testing</td>
+                <td class="p-4 text-slate-600">Different pressure thresholds</td>
+                <td class="p-4 text-slate-600">Higher stringency for Australian storm conditions</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Glass Safety</td>
+                <td class="p-4 text-slate-600">Varies by region</td>
+                <td class="p-4 text-slate-600">Strictly governed by AS 1288 safety zones</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Legal Status</td>
+                <td class="p-4 text-slate-600">Non-compliant under NCC</td>
+                <td class="p-4 text-slate-600">Mandatory for Occupancy Permit</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">The Two Mandatory Standards You Must Meet</h2>
+        <p>To be compliant, imported aluminium window systems must satisfy two distinct Australian Standards.</p>
+        
+        <h3 class="text-2xl font-bold text-slate-800 mb-4">1. AS 2047 — Windows and External Glazed Doors</h3>
+        <p>AS 2047 is the core performance standard. Unlike many overseas systems that test only profiles or glass, <span class="blog-highlight">AS 2047 requires the entire window assembly</span>—frame, glazing, seals, and hardware—to be physically tested as one unit.</p>
+        
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Deflection:</strong> How much the frame bends under design wind load</div></li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Operating Force:</strong> Safe and functional opening/closing</div></li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Air Infiltration:</strong> Airtightness of the building envelope</div></li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Water Penetration Resistance:</strong> Zero leakage under wind-driven rain</div></li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <div><strong class="text-slate-900">Ultimate Strength:</strong> Structural safety under extreme storm conditions</div></li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/86.png" alt="Architectural aluminium window system tested to AS 2047 standards" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Total System Testing: AS 2047 evaluates the frame, glass, and seals as a complete unit to guarantee performance in extreme wind and rain.</figcaption>
+        </figure>
+
+        <h3 class="text-2xl font-bold text-slate-800 mb-4">2. AS 1288 — Glass Selection & Installation</h3>
+        <p>While AS 2047 governs system performance, AS 1288 controls the glass itself. It specifies minimum thickness, safety glazing zones, and wind-load-driven sizing.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">The Role of NATA and Test Reports</h2>
+        <p>Australian certifiers typically require test reports issued by a <span class="blog-highlight">NATA-accredited laboratory</span> (National Association of Testing Authorities).</p>
+        <p>If you are importing aluminium windows, ensure the manufacturer has:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Tested the exact window configuration to AS 2047</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Provided a valid performance report referencing Australian wind zones (e.g. N3, N4, C2)</li>
+        </ul>
+        <p><strong>Pro Tip:</strong> A “sample” test report is not enough — the windows supplied to site must be identical in profile, seals, glazing, and hardware to the tested system.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">What Happens If Your Windows Are Non-Compliant?</h2>
+        <p>The consequences of installing uncertified imported windows can be severe:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-red-600 mr-3">❌</span> <div><strong class="text-slate-900">No Occupancy Certificate:</strong> The building cannot be legally occupied or sold.</div></li>
+          <li class="flex items-start"><span class="text-red-600 mr-3">❌</span> <div><strong class="text-slate-900">Mandatory Replacement:</strong> Windows may need to be removed and replaced at up to 3× the original cost.</div></li>
+          <li class="flex items-start"><span class="text-red-600 mr-3">❌</span> <div><strong class="text-slate-900">Insurance Voids:</strong> Claims may be denied if failure occurs during storms.</div></li>
+          <li class="flex items-start"><span class="text-red-600 mr-3">❌</span> <div><strong class="text-slate-900">Legal Exposure:</strong> Liability often sits with the importer or builder.</div></li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/87.png" alt="Risk of using non-compliant imported windows in Australia" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">High Stakes: The risk of using uncertified imports includes failed building inspections and mandatory system replacements.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Energy Efficiency & NCC 2022 Updates</h2>
+        <p>Under NCC 2022, compliance is no longer limited to structural performance. Energy efficiency and condensation control are now critical approval factors.</p>
+        <p>Most imported aluminium windows without a <span class="blog-highlight">thermal break</span> struggle to meet the new requirements. In several climate zones, condensation management provisions now effectively require thermally broken aluminium frames, not just stronger glass.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Frequently Asked Questions (FAQ)</h2>
+        <div class="space-y-8">
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Can I use CE-certified windows in Australia?</h4>
+            <p>No. CE certification is based on European test methods and does not satisfy AS 2047 requirements.</p>
+          </div>
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Is a glass-only test report sufficient?</h4>
+            <p>No. AS 2047 requires the entire window assembly (frame + glass) to be tested together.</p>
+          </div>
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Who is responsible for window certification?</h4>
+            <p>The importer of record is legally responsible for ensuring compliance with Australian Standards.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Get a Professional Compliance Audit Before You Import</h2>
+        <p>Do not risk your project on verbal assurances or overseas certificates. At <span class="blog-highlight">iSupaBuild</span>, we specialise in ensuring aluminium window systems are fully compliant with Australian Standards.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/88.png" alt="iSupaBuild provides fully certified aluminium window solutions" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Certified Confidence: We provide the documentation and technical support required to ensure your imported windows meet every NCC benchmark.</figcaption>
+        </figure>
+
+        <p>We provide:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> AS 2047-tested aluminium window systems</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> AS 1288-compliant glazing solutions</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> NCC 2022 energy-ready thermal break designs</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Documentation accepted by Australian certifiers</li>
+        </ul>
+        <p class="mt-8 font-bold text-lg">Import with confidence. Build without risk.</p>
+        <p class="mt-4">
+          👉 <a href="/contact" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">Contact our team today</a> for a compliance consultation before you manufacture or ship.
+        </p>
+      </section>
+    `,
+    metaTitle: 'Do Imported Aluminium Windows Need Certification in Australia?',
+    metaDescription: 'All imported aluminium windows must be certified to AS 2047 & AS 1288 before installation in Australia. Learn why CE/ASTM marks are not enough for NCC compliance.'
   }
 ];
 
