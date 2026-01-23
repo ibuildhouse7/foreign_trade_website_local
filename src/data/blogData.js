@@ -2806,6 +2806,158 @@ export const blogPosts = [
     `,
     metaTitle: 'Do Imported Aluminium Windows Need Certification in Australia?',
     metaDescription: 'All imported aluminium windows must be certified to AS 2047 & AS 1288 before installation in Australia. Learn why CE/ASTM marks are not enough for NCC compliance.'
+  },
+  {
+    id: 16,
+    slug: 'double-glazing-requirements-windows-australia',
+    title: 'Double Glazing Requirements for Windows in Australia (2026 Guide)',
+    excerpt: 'Double glazing is no longer a “premium upgrade” in Australia — it has become a baseline requirement for energy efficiency and NCC 2022 compliance.',
+    date: '2026-01-23',
+    featuredImage: '/blogs/89.png',
+    author: 'Superbuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          Double glazing is no longer a “premium upgrade” in Australia — it has become a baseline requirement for energy efficiency, occupant comfort, and compliance with modern building regulations.
+        </p>
+        <p>With the <span class="blog-highlight">National Construction Code (NCC) 2022</span> and upcoming updates placing strong emphasis on thermal performance and condensation control, understanding when and why double glazing is required is essential for homeowners, builders, and importers.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/89.png" alt="Modern Australian home featuring architectural double glazed aluminium windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">The Standard of Modern Living: High-performance double glazing is now essential for meeting Australia's rigorous energy and comfort benchmarks.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Is Double Glazing Mandatory in Australia?</h2>
+        <p><strong class="text-slate-900">Short answer: In practical certification terms, yes — for most new builds.</strong></p>
+        <p>While Australian regulations do not explicitly state the words “double glazing is mandatory,” they enforce performance outcomes that single glazing can no longer achieve under current energy codes.</p>
+        <p>These requirements are governed by:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">NCC (National Construction Code):</strong> Section J (Commercial) and Part 3.12 (Residential)</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">NatHERS (Nationwide House Energy Rating Scheme):</strong> The 7-star minimum rating requirement.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">WERS (Window Energy Rating Scheme):</strong> Verification of whole-window thermal performance.</div>
+          </li>
+        </ul>
+        <p>In most Australian climate zones, single-glazed aluminium windows fail required U-Values, making double glazing the only practical path to certification approval.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/90.png" alt="Thermal break aluminium window system with high-performance double glazing" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Performance Proven: Thermally broken frames paired with double-glazed units (IGUs) are the industry default for climate compliance in Australia.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">How NCC 2022 Drives Double Glazing Adoption</h2>
+        <p>Under NCC 2022, windows are considered the weakest link in a building’s thermal envelope. To achieve compliance, three performance metrics are critical:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">U-Value:</strong> Measures heat transfer. Double glazing can reduce U-Values from 6.0+ (single glazing) to below 2.5.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">SHGC (Solar Heat Gain Coefficient):</strong> Controls solar heat entry into the building.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Condensation Risk Management:</strong> High-performance IGUs reduce internal moisture buildup — a major NCC focus.</div>
+          </li>
+        </ul>
+        <p><strong class="text-slate-900">Pro Tip:</strong> In cooler regions such as Victoria, Tasmania, and the ACT, thermally broken aluminium frames combined with double glazing are now the industry default for compliance.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/91.png" alt="Technical visualization of condensation control in double glazed windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Condensation Control: High-performance double glazing significantly reduces the risk of internal moisture, protecting building health and occupant comfort.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Key Compliance Standards: AS 2047 and AS 1288</h2>
+        <h3 class="text-2xl font-bold text-slate-800 mb-4">1. AS 2047 — Windows and External Glazed Doors</h3>
+        <p>AS 2047 is the primary performance standard. It tests the entire window system, not just the glass.</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Air infiltration (airtightness)</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Water penetration resistance</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Structural deflection under wind load</li>
+        </ul>
+        <p><span class="blog-highlight">⚠️ Critical Importer Warning:</span> A test report for a single-glazed window cannot be reused for a double-glazed version. IGU weight and thickness significantly alter frame performance and invalidate previous test data.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/92.png" alt="Laboratory testing of double glazed aluminium window performance" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Engineering Integrity: Advanced testing ensures that double-glazed systems withstand Australia's intense wind and rain conditions.</figcaption>
+        </figure>
+
+        <h3 class="text-2xl font-bold text-slate-800 mb-4">2. AS 1288 — Glass in Buildings (Safety & Selection)</h3>
+        <p>AS 1288 governs the type, thickness, and safety classification of glass used in double-glazed units.</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Safety glass in human-impact zones</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Thickness calculated by span and wind pressure</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Laminated or toughened glass where required</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Common Compliance Risks for Window Importers</h2>
+        <p>If you are importing aluminium windows into Australia, the <span class="blog-highlight">Importer of Record</span> carries full legal responsibility for compliance. Common failure points include:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-red-500 mr-3">•</span> Non-compliant IGUs unable to withstand high UV exposure</li>
+          <li class="flex items-start"><span class="text-red-500 mr-3">•</span> Thermal bridging from non-broken aluminium frames</li>
+          <li class="flex items-start"><span class="text-red-500 mr-3">•</span> Missing AS 2047 certificates or WERS documentation</li>
+        </ul>
+        <p>Any one of these issues can delay or prevent issuance of an Occupancy Certificate, leading to costly site rectifications.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Why iSupaBuild Systems Meet Australian Requirements</h2>
+        <p>At <span class="blog-highlight">iSupaBuild</span>, we deliver compliance-ready window systems, not just products. Our solutions are engineered for the Australian market:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Full AS 2047 system testing (air, water, wind)</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Advanced thermal-break aluminium frames exceeding NCC 2022 targets</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> AS 1288-compliant glass configurations, including Low-E options</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Complete certification documentation for building approval</li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/93.png" alt="Showcase of installed premium double glazed aluminium windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Certified Confidence: iSupaBuild systems deliver both architectural beauty and full regulatory compliance for major Australian projects.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Frequently Asked Questions (FAQ)</h2>
+        <div class="space-y-8">
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Can I use double glazing without a thermally broken frame?</h4>
+            <p>You can, but it is inefficient. Without a thermal break, aluminium frames conduct heat rapidly, increasing condensation risk and often failing 7-star targets.</p>
+          </div>
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Is double glazing required for renovations?</h4>
+            <p>In most cases, yes. Replacement windows and extensions must comply with current NCC standards, which typically necessitate double glazing.</p>
+          </div>
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Does double glazing improve acoustic performance?</h4>
+            <p>Yes. Double glazing significantly reduces external noise, making it ideal for urban and transport-adjacent developments.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Ready to Secure Your Project’s Compliance?</h2>
+        <p>Avoid delays, rejections, and energy-rating failures. Choose a window system engineered specifically for Australian standards.</p>
+        <p>👉 <a href="/contact" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">Contact iSupaBuild today</a> for a technical consultation on AS 2047-compliant, double-glazed aluminium window systems.</p>
+      </section>
+    `,
+    metaTitle: 'Double Glazing Requirements for Windows in Australia | iSupaBuild',
+    metaDescription: 'Learn the latest double glazing requirements for windows in Australia under NCC 2022. Understand energy efficiency, AS 2047 standards, and condensation control.'
   }
 ];
 
