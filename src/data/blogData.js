@@ -3252,6 +3252,151 @@ export const blogPosts = [
     `,
     metaTitle: 'How to Choose a Reliable Aluminium Window Manufacturer for Australia',
     metaDescription: 'Learn what to look for when choosing an aluminium window manufacturer for Australian projects. Covers AS 2047, AS 1288, NCC 2022 compliance, and export logistics.'
+  },
+  {
+    id: 19,
+    slug: 'how-builders-choose-aluminium-windows-australia',
+    title: 'How Builders Choose Aluminium Windows for Residential Projects in Australia',
+    excerpt: 'For professional Australian builders, selecting aluminium windows is no longer just an aesthetic choice—it is a risk management, compliance, and certification decision.',
+    date: '2026-01-30',
+    featuredImage: '/blogs/113.png',
+    author: 'Superbuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          For professional Australian builders, selecting aluminium windows is no longer just an aesthetic choice—it is a risk management, compliance, and certification decision.
+        </p>
+        <p>In the current regulatory landscape, windows are critical to project success. A misstep can lead to failed energy ratings, delayed Occupation Certificates (OC), or costly rectification works post-handover. In practice, most project issues arise not from product quality, but from missing certification, incorrect testing, or incomplete documentation. This guide outlines the real-world criteria experienced builders use to select window systems that are site-ready, compliant, and engineered for the Australian climate.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/113.png" alt="Modern Australian residential construction featuring premium aluminium windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Strategic Selection: High-performance aluminium systems are foundational to the structural and thermal integrity of modern Australian homes.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">1. Compliance Over Cost: The AS 2047 & AS 1288 Priority</h2>
+        <p>Top-tier builders don’t start with price; they start with structural and safety certification. In Australia, “compliant-looking” is not enough. Before a window arrives on-site, builders verify:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Full System AS 2047 Testing:</strong> Verification that the entire window unit—not just the profile—has passed air infiltration, water penetration, and ultimate strength tests.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">AS 1288 Glass Safety:</strong> Ensuring glass thickness and type meet human impact and safety zone requirements.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Wind Rating Alignment:</strong> Confirmation that the system meets the specific N (Non-Cyclonic) or C (Cyclonic) ratings for the project’s wind region.</div>
+          </li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/114.png" alt="Compliance testing and certification verification for aluminium windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Certified Confidence: Builders demand documented proof of AS 2047 testing to mitigate risk during building audits.</figcaption>
+        </figure>
+
+        <p><span class="blog-highlight">Builder reality check:</span> A cheaper, non-certified window is a liability. If a Building Surveyor rejects the documentation, the “savings” are instantly erased by replacement and delay costs.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">2. Navigating NCC 2022 and 7-Star Energy Requirements</h2>
+        <p>With <span class="blog-highlight">NCC 2022</span> now in full effect, builders are under immense pressure to deliver 7-star NatHERS ratings. Windows are often the largest thermal weak point in the building envelope.</p>
+        <p>When evaluating aluminium systems, builders prioritise:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Thermally Broken Technology:</strong> Essential for reducing U-values and controlling condensation risk.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">High-Performance Double Glazing:</strong> Supporting Low-E coatings and Argon gas fills to meet SHGC targets.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">WERS-Compatible Data:</strong> Verified performance data that energy assessors can directly apply in NatHERS modelling.</div>
+          </li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/115.png" alt="Technical cross-section of thermally broken aluminium window frame" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Thermal Barrier: The internal polyamide break is the key to achieving the rigorous 7-star energy standards required in contemporary builds.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">3. Systems vs. Profiles: Demanding Proven Performance</h2>
+        <p>A common industry mistake is confusing a “compliant aluminium profile” with a “compliant window system.” Experienced builders insist on:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Tested Configurations:</strong> Evidence that seals, hardware, drainage paths, and glazing exactly match the tested AS 2047 configuration.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Hardware Durability:</strong> Rollers, hinges, and locks rated to support double-glazed units over long-term residential use.</div>
+          </li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">4. Site Practicality: Installation Efficiency & Waterproofing</h2>
+        <p>A window that is difficult to install is a window that creates defects. Builders evaluate buildability based on:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Sub-sill Compatibility:</strong> Integration with Australian-standard sub-sills and cavity systems.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Tolerance Control:</strong> Ability to accommodate slab movement and framing variation.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Installation Documentation:</strong> Clear fixing, flashing, and waterproofing details to reduce site risk.</div>
+          </li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/116.png" alt="Proper installation and waterproofing of aluminium windows on-site" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Site Ready: Efficient installation details reduce labor costs and lower the risk of post-handover waterproofing defects.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">5. Logistics & Supply Chain Certainty</h2>
+        <p>On residential projects, delays at lock-up halt every downstream trade. Builders look for suppliers offering realistic manufacturing lead times and export-grade protective packaging for sea freight.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/117.png" alt="Secure logistics and packaging for international window supply" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Logistics Security: Export-grade packaging ensures windows arrive on-site damage-free and ready for immediate installation.</figcaption>
+        </figure>
+
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">Documentation: The Builder’s Shield</h3>
+        <p>Documentation is the builder’s primary defence durante audits, warranty claims, and resale inspections. A professional window supplier must provide:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> AS 2047 Performance Certificates</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> AS 1288 Glazing Certificates</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Warranty terms covering frames, powder coating (AS 3715), and hardware</li>
+        </ul>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Why Builders Partner with iSupaBuild</h2>
+        <p>At iSupaBuild, we don’t just supply aluminium windows—we reduce risk for Australian residential projects.</p>
+        <p>Builders work with us because we provide:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> AS 2047-tested systems, not generic profiles</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> NCC 2022–ready thermally broken solutions for 7-star compliance</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Builder-ready certification packs that simplify Building Surveyor approval</li>
+        </ul>
+        <p class="mt-8">Final Thought: Build With Confidence. The right aluminium window system protects your program, your certification, and your reputation.</p>
+        <p>👉 <a href="/contact" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">Contact iSupaBuild</a> to discuss your next residential project or request a technical specification pack engineered for Australian standards.</p>
+      </section>
+    `,
+    metaTitle: 'How Builders Choose Aluminium Windows Australia | iSupaBuild',
+    metaDescription: 'Discover the criteria professional Australian builders use to select aluminium windows: AS 2047 compliance, NCC 2022 standards, and site practicality.'
   }
 ];
 
