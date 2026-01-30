@@ -3397,6 +3397,175 @@ export const blogPosts = [
     `,
     metaTitle: 'How Builders Choose Aluminium Windows Australia | iSupaBuild',
     metaDescription: 'Discover the criteria professional Australian builders use to select aluminium windows: AS 2047 compliance, NCC 2022 standards, and site practicality.'
+  },
+  {
+    id: 20,
+    slug: 'what-australian-developers-look-for-in-aluminium-window-suppliers',
+    title: 'What Australian Developers Look for in Aluminium Window Suppliers',
+    excerpt: 'For Australian property developers, aluminium windows are a critical commercial risk item affecting approvals, construction timelines, and long-term liability.',
+    date: '2026-01-30',
+    featuredImage: '/blogs/119.png',
+    author: 'Superbuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          For property developers in Australia—from boutique residential builders to large-scale mixed-use developments—aluminium windows are not a decorative detail. They are a critical commercial risk item affecting approvals, construction timelines, and long-term liability.
+        </p>
+        <p>A poor supplier decision can delay certification, disrupt construction schedules, inflate holding costs, and expose the project to future warranty and strata disputes. As regulatory scrutiny increases under <span class="blog-highlight">NCC 2022</span> and beyond, experienced developers are becoming far more selective when choosing aluminium window suppliers.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/119.png" alt="Premium Australian multi-storey residential development with high-performance aluminium windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Strategic Asset: For large-scale Australian developments, premium aluminium window systems are essential for both architectural intent and long-term asset value.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">1. Compliance Certainty & Certification (AS 2047 & AS 1288)</h2>
+        <p>In the Australian regulatory environment, compliance is non-negotiable. Developers require documented, verifiable evidence, not verbal assurances.</p>
+        <p>Key requirements developers expect:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">AS 2047 system testing:</strong> Full assembly testing covering wind load, water penetration, air infiltration, and ultimate strength.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">AS 1288 glazing compliance:</strong> Correct glass thickness and safety glass selection based on human impact zones.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">NCC 2022 readiness:</strong> Alignment with updated energy efficiency and condensation management provisions.</div>
+          </li>
+        </ul>
+
+        <p><span class="blog-highlight">Developer reality:</span> A non-compliant window system can halt Occupation Certificate (OC) approval for an entire project, triggering financing delays and daily interest losses that quickly exceed any upfront cost savings.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">2. Energy Performance & NCC Section J Compliance</h2>
+        <p>With NCC 2022 now in force, window performance directly affects a project’s overall energy rating. Developers increasingly prioritise suppliers that can support energy consultants and certifiers with reliable data.</p>
+        
+        <p>Developers now expect:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><span class="blog-highlight">Thermally broken aluminium systems</span> to reduce U-values and condensation risk.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div>High-performance glazing options, including Low-E coatings, double or triple glazing, and argon-filled IGUs.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div>WERS-compatible data that integrates smoothly into NatHERS and Section J modelling.</div>
+          </li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">3. Developer-Grade vs Standard Suppliers</h2>
+        <p>Experienced developers distinguish between retail-focused suppliers and <span class="blog-highlight">developer-grade</span> suppliers based on compliance depth and engineering capability.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/118.png" alt="High-rise facade with uniform developer-grade aluminium window systems" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Scaling with Certainty: Developer-grade suppliers provide the engineering depth and manufacturing consistency required for large-scale urban projects.</figcaption>
+        </figure>
+
+        <div class="overflow-x-auto my-10">
+          <table class="w-full text-left border-collapse">
+            <thead>
+              <tr class="bg-slate-50 border-b border-slate-200">
+                <th class="p-4 font-bold text-slate-900">Feature</th>
+                <th class="p-4 font-bold text-slate-900">Standard Retail Supplier</th>
+                <th class="p-4 font-bold text-slate-900">Developer-Grade Supplier</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-100">
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Testing</td>
+                <td class="p-4 text-slate-600">Generic or limited</td>
+                <td class="p-4 text-slate-600">Project-specific AS 2047 testing</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Engineering</td>
+                <td class="p-4 text-slate-600">Catalogue-based</td>
+                <td class="p-4 text-slate-600">Custom wind load & acoustic solutions</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Documentation</td>
+                <td class="p-4 text-slate-600">Basic invoices</td>
+                <td class="p-4 text-slate-600">Full compliance pack (AS 2047 / WERS)</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Delivery</td>
+                <td class="p-4 text-slate-600">Ad-hoc</td>
+                <td class="p-4 text-slate-600">Staged, program-aligned delivery</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p>Developer-grade suppliers reduce downstream risk—not just procurement cost.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">4. Engineering Capability & Technical Support</h2>
+        <p>Experienced developers seek suppliers who can actively solve site-specific challenges, including:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Acoustic performance:</strong> For projects near roads, rail corridors, or mixed-use zones.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Wind load assessments:</strong> For coastal, high-rise, or exposed locations.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Architectural integration:</strong> With cladding, masonry, precast, or rendered façades.</div>
+          </li>
+        </ul>
+        <p>Engineering support at the design stage often prevents costly redesigns during construction.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">5. Program Certainty & Supply Chain Reliability</h2>
+        <p>On development sites, time equals money. Delays in window delivery directly affect lock-up milestones and downstream trades.</p>
+        
+        <p>Developers assess suppliers on:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Realistic manufacturing lead times with clear production scheduling.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <span class="blog-highlight">Export-grade packaging</span> to minimise damage during transport and site handling.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Staged delivery capability aligned with the construction program.</li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">6. Documentation for Strata, Handover & Risk Management</h2>
+        <p>Comprehensive documentation protects developers long after practical completion. A professional supplier provides a complete handover compliance pack, including:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> AS 2047 performance certificates.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> AS 1288 glazing compliance documentation.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Warranty terms for frames, powder coating, and hardware.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> Care and maintenance manuals for strata and end users.</li>
+        </ul>
+        <p>This documentation reduces future disputes and warranty exposure.</p>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Why Developers Choose iSupaBuild</h2>
+        <p>At iSupaBuild, we don’t just manufacture aluminium windows—we help developers reduce project risk. Our systems are designed specifically for Australian regulatory and environmental conditions:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">Verified compliance:</strong> Full AS 2047 and AS 1288 certification.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">NCC 2022 ready:</strong> Thermally broken systems engineered for 7-star performance.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">High-rise capability:</strong> Engineered solutions for complex structural demands.</li>
+          <li class="flex items-start"><span class="text-cyan-600 mr-3">•</span> <strong class="text-slate-900">National delivery:</strong> Supporting developments across Sydney, Melbourne, Brisbane, and beyond.</li>
+        </ul>
+        <p class="mt-8">Final Thought: Choose Certainty, Not Just Cost. For Australian developers, the right aluminium window supplier delivers certainty, compliance, and long-term value—not surprises.</p>
+        <p>👉 <a href="/contact" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">Contact iSupaBuild</a> for a technical consultation or supplier capability review for your next development project.</p>
+      </section>
+    `,
+    metaTitle: 'What Australian Developers Look for in Window Suppliers | iSupaBuild',
+    metaDescription: 'Discover the 7 core criteria Australian developers use to assess aluminium window suppliers: AS 2047 compliance, NCC 2022 standards, and supply chain reliability.'
   }
 ];
 
