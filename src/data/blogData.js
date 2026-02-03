@@ -3881,6 +3881,163 @@ export const blogPosts = [
     `,
     metaTitle: 'Developer Guide: Custom Aluminium Windows NCC 2022 | iSupaBuild',
     metaDescription: 'Maximize project compliance and margins with custom aluminium windows. Navigating NCC 2022, 7-Star NatHERS, and value engineering for Australian developers.'
+  },
+  {
+    id: 23,
+    slug: 'start-new-year-better-windows-aluminium-solutions-australia',
+    title: 'Start the New Year with Better Windows: Aluminium Solutions for Australian Homes',
+    excerpt: 'The start of a new year is the perfect time for fresh plans. Discover why upgrading to high-performance aluminium windows is the smartest investment for your Australian home in 2026.',
+    date: '2026-01-05',
+    featuredImage: '/blogs/128.png',
+    author: 'Superbuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          The start of a new year is the perfect time for fresh plans — especially for Australian homeowners focused on comfort, energy efficiency, and long-term property value. Whether you are planning a coastal renovation, a modern extension, or a brand-new build, upgrading your windows is the smartest investment you can make in 2026.
+        </p>
+        <p>With Australia’s demanding climate and the latest <span class="blog-highlight">NCC 2022 building standards</span>, aluminium windows have emerged as the gold standard for performance and aesthetics.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/128.png" alt="High-end modern Australian home with premium aluminium windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Precision-engineered aluminium window systems: The ideal foundation for a high-performance Australian home in 2026.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Why Windows Matter More Than Ever in Australia</h2>
+        <p>Windows are the "thermal bridges" of your home. In Australia’s unique environment, poorly selected windows lead to:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Heat Loss/Gain:</strong> Up to 40% of a home’s heating and cooling energy can be lost through inefficient windows.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">UV Damage:</strong> The harsh Australian sun can fade interiors and degrade inferior frame materials.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Compliance Risks:</strong> New regulations require higher NatHERS star ratings for residential projects.</div>
+          </li>
+        </ul>
+        <p>Starting the year by upgrading to <span class="blog-highlight">high-performance aluminium systems</span> ensures your home remains a sanctuary, regardless of the temperature outside.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/129.png" alt="Architectural aluminium window detail in modern residential setting" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Protecting your sanctuary: Modern aluminium windows engineered to withstand Australia's extreme climate conditions.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Why Aluminium is the #1 Choice for 2026</h2>
+        <p>Aluminium continues to dominate the Australian market because it balances slim modern design with rugged durability.</p>
+        
+        <div class="overflow-x-auto my-10">
+          <table class="w-full text-left border-collapse">
+            <thead>
+              <tr class="bg-slate-50 border-b border-slate-200">
+                <th class="p-4 font-bold text-slate-900">Feature</th>
+                <th class="p-4 font-bold text-slate-900">Benefit for Homeowners</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-100">
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Durability</td>
+                <td class="p-4 text-slate-600">Won't rot, warp, or crack in high-UV or coastal salt air.</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Low Maintenance</td>
+                <td class="p-4 text-slate-600">No repainting required; simple "wipe-down" cleaning.</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Aesthetics</td>
+                <td class="p-4 text-slate-600">Slim profiles allow for larger glass spans and more natural light.</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Eco-Friendly</td>
+                <td class="p-4 text-slate-600">100% recyclable material with a long lifecycle.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Energy Efficiency: Meeting the 7-Star Standard</h2>
+        <p>In 2026, energy efficiency is a regulatory necessity. The National Construction Code (NCC) 2022 has raised the bar, and aluminium technology has evolved to meet it.</p>
+        
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">1. Thermally Broken Aluminium</h3>
+        <p>Unlike standard aluminium, <span class="blog-highlight">thermally broken frames</span> feature an insulating barrier that stops heat from transferring through the metal. This is essential for maintaining a 7-star energy rating.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/130.png" alt="Thermally broken aluminium window profile closeup" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">The science of comfort: Integrated thermal breaks block heat transfer, significantly reducing home energy costs.</figcaption>
+        </figure>
+
+        <h3 class="text-2xl font-bold text-slate-800 mt-10 mb-6">2. High-Performance Glazing</h3>
+        <p>Pairing aluminium frames with <span class="blog-highlight">Double Glazing or Low-E Glass</span> creates a high-performance envelope. This setup reflects solar heat in summer and traps warmth in winter, significantly lowering energy bills.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Built for Australian Standards</h2>
+        <p>Compliance is non-negotiable. At iSupaBuild, our window systems are rigorously tested to meet:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">AS 2047:</strong> Mandatory performance requirements for wind loads and water penetration.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">AS 1288:</strong> Safety glass selection and installation standards.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">NCC 2022:</strong> Latest energy efficiency and condensation management protocols.</div>
+          </li>
+        </ul>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/131.png" alt="Installation of high-performance aluminium windows in Australian home" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Built to exceed: Rigorous adherence to Australian Standards ensures safety, performance, and long-term asset protection.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">FAQ: What Homeowners Ask About Aluminium Windows</h2>
+        <div class="space-y-8">
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Are aluminium windows better than timber for coastal areas?</h4>
+            <p>Yes. Aluminium is significantly more resistant to salt spray and corrosion. Unlike timber, it won't swell or rot when exposed to high humidity and coastal winds.</p>
+          </div>
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Can aluminium windows help reduce noise?</h4>
+            <p>Absolutely. When combined with double glazing and proper acoustic seals, aluminium windows can reduce external noise by up to 80%, making them ideal for urban areas.</p>
+          </div>
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Are they available in custom colors?</h4>
+            <p>Yes. Our range includes a wide variety of powder-coated finishes (including popular Colorbond® shades) to match any architectural style.</p>
+          </div>
+        </div>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/132.png" alt="Modern interior featuring expansive aluminium sliding doors" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Architectural freedom: High-strength aluminium frames enable expansive sliding door systems that blur the line between indoors and outdoors.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16 text-center">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Start Your 2026 Project with iSupaBuild</h2>
+        <p class="text-lg text-slate-600 mb-8">A new year represents a fresh start for your home. Don't settle for "standard" when you can have "superior."</p>
+        <p>At iSupaBuild, we specialize in aluminium window solutions engineered specifically for the Australian climate. From sleek bifold doors to high-performance thermally broken windows, we help you build for the future.</p>
+        <p class="mt-8">Ready to upgrade your home’s performance?</p>
+        <div class="flex flex-col sm:flex-row justify-center gap-4 mt-8">
+          <a href="/contact" class="px-8 py-3 bg-cyan-600 text-white font-bold rounded-lg hover:bg-cyan-700 transition-colors">Contact iSupaBuild Today</a>
+          <a href="/products" class="px-8 py-3 border border-cyan-600 text-cyan-600 font-bold rounded-lg hover:bg-cyan-50 transition-colors">Browse Our 2026 Range</a>
+        </div>
+      </section>
+    `,
+    metaTitle: 'Start the New Year with Better Windows: Aluminium Solutions 2026',
+    metaDescription: 'Upgrade your Australian home in 2026 with high-performance aluminium windows. Meet 7-star energy standards, improve comfort, and increase property value.'
   }
 ];
 
