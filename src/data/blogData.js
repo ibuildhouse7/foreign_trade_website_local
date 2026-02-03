@@ -4038,6 +4038,96 @@ export const blogPosts = [
     `,
     metaTitle: 'Start the New Year with Better Windows: Aluminium Solutions 2026',
     metaDescription: 'Upgrade your Australian home in 2026 with high-performance aluminium windows. Meet 7-star energy standards, improve comfort, and increase property value.'
+  },
+  {
+    id: 24,
+    slug: 'residential-project-planning-australia-window-decision',
+    title: 'Planning New Residential Projects in Australia? Why Windows Are Your Most Critical “Day-One” Decision',
+    excerpt: 'Window selection has shifted from an aesthetic choice to a day-one compliance decision. Learn how NCC 2022 and 7-star energy ratings impact your project.',
+    date: '2026-02-03',
+    featuredImage: '/blogs/133.png',
+    author: 'Superbuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          In the current Australian residential construction landscape, window selection has shifted from a late-stage aesthetic choice to a day-one compliance and performance decision. Under NCC 2022 and the move toward 7-star NatHERS ratings, windows now define a project’s approval pathway.
+        </p>
+        <p>For Australian residential developments, windows are among the earliest elements assessed for structural performance, energy efficiency, and condensation risk. Developers and architects who address window strategy early significantly reduce downstream compliance risk. This is how the right window systems protect your project from <span class="blog-highlight">day one</span>.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/133.png" alt="High-performance aluminium window installation in a modern Australian home" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Early-stage window specification is critical for achieving 7-star NatHERS compliance in modern Australian residential projects.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">1. Navigating the NCC 2022 & 7-Star Energy Mandate</h2>
+        <p>The transition to 7-star energy ratings places unprecedented scrutiny on the building envelope. Windows remain the largest source of heat gain and heat loss in residential buildings, making early specification essential.</p>
+        <p>By selecting window systems at the design stage, energy assessors can model <span class="blog-highlight">actual AS 2047-tested performance data</span> rather than generic assumptions. This helps avoid late-stage redesigns and costly upgrades to insulation or HVAC systems.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">2. Compliance Is Non-Negotiable: AS 2047 & AS 1288</h2>
+        <p>All residential windows installed in Australia must comply with mandatory Australian Standards, enforced through the National Construction Code.</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">AS 2047:</strong> Structural performance, water penetration, and air infiltration.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">AS 1288:</strong> Glass safety and human impact requirements.</div>
+          </li>
+        </ul>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/134.png" alt="Compliance-verified aluminium windows for an Australian construction site" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Mandatory AS 2047 and AS 1288 compliance ensures that all window systems meet the high safety and performance standards required in Australia.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">3. Optimising Thermal Performance: U-Values & SHGC</h2>
+        <p>Early planning enables orientation-specific window optimisation instead of a one-size-fits-all approach. Designers can strategically manage <span class="blog-highlight">U-Values</span> and <span class="blog-highlight">SHGC</span> to balance thermal comfort throughout the year.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/135.png" alt="Energy-efficient double-glazed aluminium windows in a contemporary living space" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Thermally broken frames and high-performance glazing are essential for meeting the strict energy efficiency requirements of the new NCC mandates.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">4. Structural Integrity & Site-Specific Wind Loads</h2>
+        <p>Australia’s diverse geography demands different wind ratings. Early alignment between window systems and structural framing ensures fixings and support details are engineered correctly from the outset.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/136.png" alt="High-strength aluminium window frame detail for Australian wind load compliance" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Structural engineering for window systems must account for site-specific wind loads, from suburban N2 ratings to high-exposure coastal zones.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">5. Streamlining Construction Logistics & Lock-Up</h2>
+        <p>Window delays are one of the most common causes of program overruns. Early engagement with iSupaBuild enables program certainty through staged manufacturing and just-in-time delivery.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/137.png" alt="Modern residential project at lock-up stage with iSupaBuild aluminium windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Reaching 'lock-up' on schedule is vital for maintaining project momentum and protecting interior trades from weather damage.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Start with the Right Windows, Finish with Confidence</h2>
+        <p>In today’s regulatory environment, windows are a foundation decision, not a finishing item. Early window strategy reduces compliance risk, improves energy performance, and protects project margins.</p>
+        <p>👉 Contact iSupaBuild today for a technical consultation on your next residential project.</p>
+        <div class="flex flex-col sm:flex-row justify-center gap-4 mt-8">
+          <a href="/contact" class="px-8 py-3 bg-cyan-600 text-white font-bold rounded-lg hover:bg-cyan-700 transition-colors">Contact iSupaBuild Today</a>
+          <a href="/products" class="px-8 py-3 border border-cyan-600 text-cyan-600 font-bold rounded-lg hover:bg-cyan-50 transition-colors">Explore Solutions</a>
+        </div>
+      </section>
+    `,
+    metaTitle: 'Residential Project Planning Australia: Critical Window Decision',
+    metaDescription: 'Why windows are the most critical day-one decision for new residential projects in Australia under NCC 2022 and 7-star NatHERS mandates.'
   }
 ];
 
