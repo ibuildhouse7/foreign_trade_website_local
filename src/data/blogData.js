@@ -4308,5 +4308,160 @@ export const blogPosts = [
     `,
     metaTitle: 'Aluminium Awning Windows Australia | iSupaBuild Guide',
     metaDescription: 'Discover the benefits of aluminium awning windows in Australia. Learn about weatherproofing, energy efficiency, NCC 2022 compliance, and architectural applications.'
+  },
+  {
+    id: 26,
+    slug: 'fixed-aluminium-windows-modern-australian-homes',
+    title: 'Fixed Aluminium Windows for Modern Australian Homes: Performance & Design',
+    excerpt: 'Fixed aluminium windows (picture windows) are a cornerstone of modern Australian architecture. Discover why they are the preferred choice for 7-star energy ratings and NCC 2022 compliance.',
+    date: '2026-02-04',
+    featuredImage: '/blogs/143.png',
+    author: 'Superbuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          In the evolving landscape of Australian residential architecture, fixed aluminium windows have transitioned from simple glazing units to the definitive solution for achieving high-performance energy efficiency and panoramic design clarity.
+        </p>
+        <p>With the introduction of <span class="blog-highlight">NCC 2022</span> and the shift towards 7-star NatHERS ratings, selecting the right window system is no longer just an aesthetic choice—it is a regulatory necessity for architects, builders, and developers delivering modern Australian homes.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/143.png" alt="Luxury Australian home with large floor-to-ceiling fixed aluminium windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Panoramic excellence: Floor-to-ceiling fixed aluminium windows create a seamless connection between luxury interiors and the Australian landscape.</figcaption>
+        </figure>
+
+        <p>This guide explores why fixed aluminium windows (often called picture windows) are the strategic choice for high-performance residential projects across Australia.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">What Are Fixed Aluminium Windows?</h2>
+        <p>Unlike operable systems such as awning or sliding windows, fixed aluminium windows are non-opening units designed to deliver uninterrupted views, maximum natural light, and the highest level of <span class="blog-highlight">airtightness</span> within the building envelope.</p>
+        <p>Because they lack moving parts and complex hardware, fixed windows offer superior durability, dramatically reduced maintenance, and consistently higher thermal performance compared to operable window systems.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Why Fixed Aluminium Windows Dominate Australian Architecture</h2>
+        
+        <h3 class="text-2xl font-bold text-slate-800 mb-4">1. Achieving 7-Star Energy Ratings (NCC 2022)</h3>
+        <p>The most significant advantage of fixed aluminium windows is their airtight construction. With no opening mechanisms, air leakage is virtually eliminated—making them a preferred option for meeting <span class="blog-highlight">NCC 2022 efficiency targets</span>.</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Lower U-Values:</strong> Fixed frames allow for thicker high-performance Double Glazing (IGUs) and Low-E glass.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Condensation Management:</strong> Precision-engineered frames help control internal moisture, vital for cooler southern climates.</div>
+          </li>
+        </ul>
+
+        <h3 class="text-2xl font-bold text-slate-800 mb-4">2. Structural Integrity for Large-Scale Glazing</h3>
+        <p>Modern Australian home design increasingly features large-format glazing and double-height voids. Aluminium’s exceptional strength-to-weight ratio allows fixed windows to support larger glass spans than timber or uPVC alternatives.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/144.png" alt="Interior view of modern living room with large picture window framing a garden" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">The "Picture Window" effect: Minimalist black aluminium frames disappear, turning a lush garden into a living piece of art.</figcaption>
+        </figure>
+
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Floor-to-Ceiling Glazing:</strong> Ideal for living areas, stairwells, and architectural feature walls.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Slimline Profiles:</strong> Maintain a minimalist aesthetic while meeting <span class="blog-highlight">AS 2047</span> wind load requirements.</div>
+          </li>
+        </ul>
+
+        <h3 class="text-2xl font-bold text-slate-800 mb-4">3. Low Maintenance Performance</h3>
+        <p>From salt-heavy coastal environments to intense UV exposure, fixed aluminium windows are engineered for longevity. With <span class="blog-highlight">no mechanical wear</span> (hinges or rollers), they represent the ultimate "install-and-forget" solution for developers.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Technical Specifications & Performance Comparison</h2>
+        <div class="overflow-x-auto my-10">
+          <table class="w-full text-left border-collapse">
+            <thead>
+              <tr class="bg-slate-50 border-b border-slate-200">
+                <th class="p-4 font-bold text-slate-900">Feature</th>
+                <th class="p-4 font-bold text-slate-900">Fixed Aluminium</th>
+                <th class="p-4 font-bold text-slate-900">Operable (Awning/Sliding)</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-100">
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Airtightness</td>
+                <td class="p-4 text-slate-600">Excellent (Near-Zero Leakage)</td>
+                <td class="p-4 text-slate-600">Moderate</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Energy Efficiency</td>
+                <td class="p-4 text-slate-600">Highest (Lowest U-Value)</td>
+                <td class="p-4 text-slate-600">Moderate to High</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Max Glass Size</td>
+                <td class="p-4 text-slate-600">Up to 6m²+</td>
+                <td class="p-4 text-slate-600">Limited by hardware</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Maintenance</td>
+                <td class="p-4 text-slate-600">Minimal (Cleaning only)</td>
+                <td class="p-4 text-slate-600">Hardware maintenance required</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Compliance & Design Integration</h2>
+        <p>To ensure smooth certification, fixed aluminium windows supplied by <span class="blog-highlight">iSupaBuild</span> are engineered to meet:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">AS 2047:</strong> Mandatory performance testing for water penetration and structural loads.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">AS 1288:</strong> Critical glass selection for safety and human impact resistance.</div>
+          </li>
+        </ul>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/145.png" alt="Double-height void with tall fixed aluminium windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Structural light: Large-scale fixed glazing used in double-height voids to maximize natural daylight harvesting.</figcaption>
+        </figure>
+
+        <p>A smart "hybrid" strategy often pairs high-line fixed windows with smaller operable units positioned lower for cross-ventilation, balancing energy performance with occupant comfort.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Frequently Asked Questions (FAQ)</h2>
+        <div class="space-y-8">
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Are fixed windows cheaper than opening windows?</h4>
+            <p>Generally, yes. Without expensive hardware or complex framing, fixed windows deliver a lower cost per square metre while achieving significantly higher energy performance.</p>
+          </div>
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Can fixed aluminium windows meet BAL (Bushfire) requirements?</h4>
+            <p>Yes. Aluminium is non-combustible. iSupaBuild systems can be configured to meet requirements up to <span class="blog-highlight">BAL-40 and BAL-FZ</span> when paired with compliant glazing.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Plan Your Project with iSupaBuild</h2>
+        <p>At iSupaBuild, we deliver engineered solutions specifically for Australian conditions. From <span class="blog-highlight">NCC 2022 compliance</span> to site-specific <span class="blog-highlight">AS 2047 testing</span>, we provide technical certainty from design to delivery.</p>
+        <p>Ready to enhance your building envelope with high-performance fixed aluminium windows?</p>
+        <p>👉 <a href="/contact" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">Contact iSupaBuild today</a> for a technical consultation or a tailored quotation.</p>
+        <div class="flex flex-col sm:flex-row justify-center gap-4 mt-8">
+          <a href="/contact" class="px-8 py-3 bg-cyan-600 text-white font-bold rounded-lg hover:bg-cyan-700 transition-colors">Contact iSupaBuild Today</a>
+          <a href="/products" class="px-8 py-3 border border-cyan-600 text-cyan-600 font-bold rounded-lg hover:bg-cyan-50 transition-colors">Explore Solutions</a>
+        </div>
+      </section>
+    `,
+    metaTitle: 'Fixed Aluminium Windows Australia | iSupaBuild Performance Guide',
+    metaDescription: 'Discover why fixed aluminium windows are the preferred choice for modern Australian homes. Learn about 7-star energy ratings, NCC 2022 compliance, and panoramic design.'
   }
 ];
