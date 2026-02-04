@@ -4128,7 +4128,185 @@ export const blogPosts = [
     `,
     metaTitle: 'Residential Project Planning Australia: Critical Window Decision',
     metaDescription: 'Why windows are the most critical day-one decision for new residential projects in Australia under NCC 2022 and 7-star NatHERS mandates.'
+  },
+  {
+    id: 25,
+    slug: 'the-ultimate-guide-to-aluminium-awning-windows-australia',
+    title: 'The Ultimate Guide to Aluminium Awning Windows in Australia: Features & Applications',
+    excerpt: 'Aluminium awning windows are a staple in Australian architecture. Discover why they are the preferred choice for weather resistance, energy efficiency, and NCC 2022 compliance.',
+    date: '2026-02-04',
+    featuredImage: '/blogs/138.png',
+    author: 'Superbuild Expert',
+    content: `
+      <section class="mb-16">
+        <p class="text-xl md:text-2xl text-slate-600 italic mb-12 leading-relaxed border-l-4 border-cyan-500/50 pl-8">
+          Aluminium awning windows are among the most specified window systems in Australian residential and low-rise commercial architecture, valued by builders and designers for their superior weather sealing, energy efficiency, and compliance with Australian Standards.
+        </p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/138.png" alt="Modern Australian home featuring architectural aluminium awning windows" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Modern architectural design incorporating high-performance aluminium awning windows for superior aesthetics and functionality.</figcaption>
+        </figure>
+
+        <p>Engineered for durability and high-performance weather resistance, they are a staple across Australia’s diverse climates—from the salt-heavy coastal air of NSW and Queensland to the cooler, wind-swept regions of Victoria and Tasmania.</p>
+        <p>At <span class="blog-highlight">iSupaBuild</span>, we specialise in high-quality aluminium window solutions. In this guide, we explore why aluminium awning windows are a superior choice for modern Australian projects and how they meet the rigorous demands of local building regulations.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">What Is an Aluminium Awning Window?</h2>
+        <p>An aluminium awning window is hinged at the top and opens outward from the bottom, making it one of the most weather-resistant operable window types used in Australia.</p>
+        <p>Usually operated by a smooth <span class="blog-highlight">chain winder</span> or a lockable handle, this “tent-style” opening allows for continuous ventilation even during rain—an essential feature for Australian homes.</p>
+        
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/139.png" alt="Close-up of a premium aluminium awning window with chain winder" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Premium aluminium awning window featuring a smooth chain winder for effortless operation and precise ventilation control.</figcaption>
+        </figure>
+
+        <p>When fabricated with premium-grade aluminium, awning windows deliver a slimline aesthetic combined with structural strength that timber or uPVC often struggle to maintain under high UV exposure and extreme weather conditions.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Key Benefits for the Australian Climate</h2>
+        
+        <h3 class="text-2xl font-bold text-slate-800 mb-4">1. Superior Weatherproofing & Storm Resistance</h3>
+        <p>Australia’s weather is famously unpredictable. The unique design of an awning window provides a natural “hood” against rain, which is why builders often specify awning windows to reduce waterproofing risk on site.</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Rain Protection:</strong> Windows can remain open during summer storms without water entering the home.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Compression Seals:</strong> High-pressure seals on all four sides provide excellent resistance to wind-driven rain.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Coastal Ready:</strong> Marine-grade powder coating protects frames from corrosion in high-salt environments.</div>
+          </li>
+        </ul>
+
+        <h3 class="text-2xl font-bold text-slate-800 mb-4">2. Maximum Energy Efficiency (NCC 2022 Compliant)</h3>
+        <p>With the <span class="blog-highlight">National Construction Code (NCC) 2022</span> enforcing 7-star NatHERS ratings for new residential builds, aluminium awning windows are increasingly specified for their airtight performance and thermal efficiency.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/141.png" alt="Energy efficient aluminium windows with double glazing" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">High-performance glazing systems integrated with aluminium frames to achieve compliance with NCC 2022 energy standards.</figcaption>
+        </figure>
+
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Airtight Seal:</strong> The pull-in closing mechanism creates exceptional air tightness.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Glazing Options:</strong> Supports double glazing and Low-E glass.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">Thermal Performance:</strong> Significantly reduces U-values and keeps homes cooler in summer and warmer in winter.</div>
+          </li>
+        </ul>
+
+        <h3 class="text-2xl font-bold text-slate-800 mb-4">3. Flyscreen Integration & Security</h3>
+        <p>Because awning windows open outward, <span class="blog-highlight">internal flyscreens</span> can be installed without obstructing operation—allowing full airflow while keeping insects out. For added security, chain winders can be fitted with integrated locking mechanisms.</p>
+
+        <h3 class="text-2xl font-bold text-slate-800 mb-4">4. Bushfire (BAL) and Cyclonic Ratings</h3>
+        <p>For projects in bushfire-prone areas or Northern Australia, aluminium is the preferred material due to its non-combustible properties. <span class="blog-highlight">iSupaBuild</span> awning window systems can meet BAL-12.5, BAL-29, and BAL-40 requirements.</p>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Common Applications in Modern Australian Architecture</h2>
+        <div class="overflow-x-auto my-10">
+          <table class="w-full text-left border-collapse">
+            <thead>
+              <tr class="bg-slate-50 border-b border-slate-200">
+                <th class="p-4 font-bold text-slate-900">Application</th>
+                <th class="p-4 font-bold text-slate-900">Why It Works</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-100">
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Bathrooms</td>
+                <td class="p-4 text-slate-600">Allows steam to escape while maintaining privacy.</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Kitchens</td>
+                <td class="p-4 text-slate-600">Ideal above benchtops; chain winders make operation easy.</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">High-Line Windows</td>
+                <td class="p-4 text-slate-600">Releases rising hot air while maintaining security.</td>
+              </tr>
+              <tr>
+                <td class="p-4 text-slate-700 font-medium">Bedrooms</td>
+                <td class="p-4 text-slate-600">Enables safe overnight ventilation, even during rain.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/140.png" alt="High-line aluminium awning windows in a modern home" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Strategically placed high-line awning windows facilitate natural thermal chimney effects, exhausting hot air while flooding the interior with soft daylight.</figcaption>
+        </figure>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Compliance with Australian Standards</h2>
+        <p>When selecting aluminium awning windows, full compliance is essential. Every iSupaBuild awning window system is engineered to meet:</p>
+        <ul class="space-y-4 my-8 list-none pr-6">
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">AS 2047:</strong> Mandatory performance standard for windows and external glazed doors.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">AS 1288:</strong> Glass selection and installation requirements for safety.</div>
+          </li>
+          <li class="flex items-start">
+            <span class="text-cyan-600 mr-3">•</span>
+            <div><strong class="text-slate-900">AS 3959:</strong> Construction in bushfire-prone areas (where applicable).</div>
+          </li>
+        </ul>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Frequently Asked Questions (FAQ)</h2>
+        <div class="space-y-8">
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Are aluminium awning windows more expensive than sliding windows?</h4>
+            <p>Generally, yes. Awning windows often cost slightly more due to the winder hardware and superior sealing. However, they typically offer better long-term energy performance and weather protection.</p>
+          </div>
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Can aluminium awning windows be automated?</h4>
+            <p>Yes. Electric winders can be installed for high-level or hard-to-reach windows and integrated into smart home systems.</p>
+          </div>
+          <div>
+            <h4 class="text-xl font-bold text-slate-800 mb-2">Are different colours and finishes available?</h4>
+            <p>Absolutely. iSupaBuild offers a wide range of powder-coated finishes (including <span class="blog-highlight">Colorbond™</span> options) as well as anodised finishes to suit any architectural style.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="mb-16 border-t border-slate-200 pt-16">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Why Choose iSupaBuild for Aluminium Awning Windows?</h2>
+        <p>At iSupaBuild, we don’t just supply windows—we deliver engineered solutions for Australian conditions. Our aluminium awning windows provide <span class="blog-highlight">AS 2047 Tested Systems</span> for guaranteed compliance and <span class="blog-highlight">Thermally Broken Technology</span> for superior energy efficiency.</p>
+
+        <figure class="my-14 overflow-hidden rounded-2xl border border-slate-200 shadow-2xl shadow-cyan-500/10">
+          <img src="/blogs/142.png" alt="High-quality aluminium awning window installation by iSupaBuild" class="w-full h-auto" />
+          <figcaption class="text-center text-sm text-slate-500 mt-6 italic">Precision installation and engineered performance: The iSupaBuild promise for Australian residential projects.</figcaption>
+        </figure>
+
+        <p>Ready to specify high-performance awning windows for your next project?</p>
+        <p>👉 <a href="/contact" class="text-cyan-600 hover:text-cyan-700 underline underline-offset-4">Contact iSupaBuild today</a> for a technical consultation or a tailored quotation.</p>
+        <div class="flex flex-col sm:flex-row justify-center gap-4 mt-8">
+          <a href="/contact" class="px-8 py-3 bg-cyan-600 text-white font-bold rounded-lg hover:bg-cyan-700 transition-colors">Contact iSupaBuild Today</a>
+          <a href="/products" class="px-8 py-3 border border-cyan-600 text-cyan-600 font-bold rounded-lg hover:bg-cyan-50 transition-colors">Explore Solutions</a>
+        </div>
+      </section>
+    `,
+    metaTitle: 'Aluminium Awning Windows Australia | iSupaBuild Guide',
+    metaDescription: 'Discover the benefits of aluminium awning windows in Australia. Learn about weatherproofing, energy efficiency, NCC 2022 compliance, and architectural applications.'
   }
 ];
-
-
