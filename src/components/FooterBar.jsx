@@ -25,7 +25,7 @@ import {
   
           {/* 中间：版权信息 */}
           <div className="text-gray-500 text-base text-center sm:text-left">
-            Copyright © 2025. SUPERBUILD. All rights reserved.
+            Copyright © 2026. SUPERBUILD. All rights reserved.
           </div>
   
           {/* 右侧：社交图标 */}
