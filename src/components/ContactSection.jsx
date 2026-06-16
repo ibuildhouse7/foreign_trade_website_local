@@ -10,9 +10,10 @@ const ContactSection = ({
     email: "ibuildhouse7@gmail.com",
     businessHours: "Mon-Fri: 8:00 AM - 6:00 PM",
     socialMedia: [
-      { name: "Facebook", icon: "📘", url: "#" },
-      { name: "Instagram", icon: "📷", url: "#" },
-      { name: "LinkedIn", icon: "💼", url: "#" }
+      { name: "Facebook", icon: "📘", url: "https://www.facebook.com/profile.php?id=61586350542379" },
+      { name: "Instagram", icon: "📷", url: "https://www.instagram.com/isupabuild/" },
+      { name: "LinkedIn", icon: "💼", url: "https://www.linkedin.com/company/%E4%B8%8A%E6%B5%B7%E5%A2%85%E5%BB%BA%E5%AE%9E%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/?originalSubdomain=cn" },
+      { name: "Twitter", icon: "🐦", url: "https://x.com/ISUPABUILD" }
     ]
   }
 }) => {

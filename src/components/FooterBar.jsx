@@ -1,5 +1,6 @@
 import {
     FaFacebookF,
+    FaInstagram,
     FaLinkedinIn,
     FaYoutube,
     FaTwitter,
@@ -29,16 +30,19 @@ import {
   
           {/* 右侧：社交图标 */}
           <div className="flex gap-4 text-gray-600 text-lg">
-            <a href="#" aria-label="Facebook" className="hover:opacity-75">
+            <a href="https://www.facebook.com/profile.php?id=61586350542379" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="hover:opacity-75">
               <FaFacebookF />
             </a>
-            <a href="#" aria-label="LinkedIn" className="hover:opacity-75">
+            <a href="https://www.instagram.com/isupabuild/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="hover:opacity-75">
+              <FaInstagram />
+            </a>
+            <a href="https://www.linkedin.com/company/%E4%B8%8A%E6%B5%B7%E5%A2%85%E5%BB%BA%E5%AE%9E%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/?originalSubdomain=cn" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="hover:opacity-75">
               <FaLinkedinIn />
             </a>
             <a href="#" aria-label="YouTube" className="hover:opacity-75">
               <FaYoutube />
             </a>
-            <a href="#" aria-label="Twitter" className="hover:opacity-75">
+            <a href="https://x.com/ISUPABUILD" target="_blank" rel="noopener noreferrer" aria-label="Twitter" className="hover:opacity-75">
               <FaTwitter />
             </a>
             <a href="#" aria-label="Google Plus" className="hover:opacity-75">
